@@ -6,14 +6,14 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Frequently Asked Questions</h2>
 <h3>When and where is the Undergraduate Commencement Ceremony?</h3>
-The Undergraduate Ceremony will take place Saturday, May 7, 2016, at 9 a.m. on Ball Circle.
+The Undergraduate Ceremony will take place Saturday, May 13, 2017, at 9 a.m. on Ball Circle.
 <h3>What time can I go to Ball Circle to find a seat?</h3>
 Ball Circle will open for guests to go onto the field and find their seats at 7:00 am the day of Commencement.
 <h3>How long is the commencement ceremony?</h3>
@@ -31,18 +31,18 @@ Yes, all degree candidates are required to wear regalia. The UMW regalia ensemb
 <h3>Is there an event following the commencement ceremony?</h3>
 A <a href="https://umwcatering.catertrax.com/shopdisplayproducts.asp?categoryID=101&amp;cat=Order+Tickets+here+for%3A+%3Cbr%3EUndergraduate+Commencement%3Cbr%3ELuncheon+Picnic&amp;intOrderID=&amp;intCustomerID=">picnic lunch</a> is offered immediately following the ceremony. Tickets are required for this event.
 <h3>Am I required to attend the commencement ceremony?</h3>
-ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2015, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 17, 2016, for permission to be excused to Rita Dunston, Registrar at rdunston@umw.edu.
+ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2016, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 14, 2017, for permission to be excused to Rita Dunston, Registrar at rdunston@umw.edu.
 <h3>If I completed my degree requirements in summer or fall preceding the May commencement ceremony, am I still able to participate?</h3>
-Yes.  As a student, if you have already received your diploma you are on the graduation list. Please contact the Office of the Registrar at (540)654-1063 if you have additional questions.
+Yes.  As a student, if you have already received your diploma you are on the graduation list. Please contact the Office of the Registrar at (540) 654-1063 if you have additional questions.
 <h3>If my student completed his/her degree requirements in the Fall, is there a separate Commencement Ceremony?</h3>
 There is only one Commencement Ceremony each year in May. If a student completes all degree requirements in the Fall they are invited to participate the following May but are not required to, it is their personal choice.
 <h3>If I complete my degree requirements in the summer following the May commencement ceremony, am I still able to participate?</h3>
 As a special exception, if a student is one course from completing degree requirement and can complete the following summer, then may apply to participate in the commencement ceremony.
 <h3>If a graduating student or guest requires special accommodations, what should I do?</h3>
-Please notify the Office of University and Conferencing Events by <strong>April 14, 2016</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form. All venues are wheelchair accessible.
+Please notify the Office of University and Conferencing Events by <strong>April 21, 2017</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form. All venues are wheelchair accessible.
 
-<strong> Note: As of 4/25/16 special accommodation seating is filled to capacity.</strong>
-<h3>Will professional photos be taken of graduating students?</h3>
+<strong> </strong><strong>Will professional photos be taken of graduating students?</strong>
+
 Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 1 to 3 days and via postal mail within 5 to 7 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com">placed online</a> or by calling 1-800-261-2576.
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
