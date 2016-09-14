@@ -8,5 +8,7 @@ layout: page
 permalink: >
   http://www.umw.edu/commencement/undergraduate/speaker/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Watch this space for the speaker announcement.
