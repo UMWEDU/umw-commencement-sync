@@ -23,9 +23,10 @@ wpcf-home-page-grid-inclusion:
 <div><strong>Location:</strong>University Bookstore, Lee Hall</div>
 <div>
 
-<strong>Dates:</strong>
+<strong>Dates:  </strong><em>Coming Soon!</em><strong>
+</strong>
 
 </div>
 <div></div>
-<div>If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW">order regalia online</a>. A $15.95 home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</div>
+<div>If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW">order regalia online</a>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</div>
 <div></div>
