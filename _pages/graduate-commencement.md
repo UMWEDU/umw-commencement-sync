@@ -6,7 +6,7 @@ post_date: 2015-01-12 21:38:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/
+  http://www.umw.edu/commencement/graduate-commencement/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -27,19 +27,16 @@ For Undergraduates and Graduates
 
 Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:
 <ul type="disc">
-	<li>Regalia Sizing and Pick-up</li>
-	<li>Personalized Graduation Announcement Ordering</li>
-	<li>Class Ring Sizing and Ordering</li>
-	<li>Diploma Frame Selection</li>
+ 	<li>Regalia Sizing and Pick-up</li>
+ 	<li>Personalized Graduation Announcement Ordering</li>
+ 	<li>Class Ring Sizing and Ordering</li>
+ 	<li>Diploma Frame Selection</li>
 </ul>
 <strong>Location: </strong>University Bookstore, Lee Hall
 
-<strong>Dates:</strong>
-<ul type="disc">
-	<li>Thursday March 10, 2016, 10:00 a.m. – 7:00 p.m.</li>
-	<li>Friday March 11, 2016, 10:00 a.m. – 4:00 p.m.</li>
-	<li>Saturday March 12, 2016 10:00 a.m. – 4:00 p.m.</li>
-</ul>
-If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW" target="_blank" rel="nofollow">order regalia online</a>. A $15.95 home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.
+<strong>Dates:  </strong><em>Coming Soon!</em><strong>
+</strong>
+
+If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW" target="_blank" rel="nofollow">order regalia online</a>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.
 <h3><strong>Step-By-Step Guide</strong></h3>
 <a href="http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/">Download the Step-By-Step Guide To Commencement</a>. This guide contains important information regarding what you as a graduate and your guests need to do to prepare for Commencement – regalia, diplomas, accommodations, disability requests and more.
