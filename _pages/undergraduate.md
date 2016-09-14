@@ -6,7 +6,7 @@ post_date: 2015-01-09 20:32:33
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/
+  http://www.umw.edu/commencement/undergraduate/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -31,17 +31,17 @@ For Undergraduates and Graduates
 
 Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:
 <ul>
-	<li>Regalia Sizing and Pick-up</li>
-	<li>Personalized Graduation Announcement Ordering</li>
-	<li>Class Ring Sizing and Ordering</li>
-	<li>Diploma Frame Selection</li>
+ 	<li>Regalia Sizing and Pick-up</li>
+ 	<li>Personalized Graduation Announcement Ordering</li>
+ 	<li>Class Ring Sizing and Ordering</li>
+ 	<li>Diploma Frame Selection</li>
 </ul>
 <strong>Location: </strong>University Bookstore, Lee Hall
 
 <strong>Dates:</strong>
 <ul>
-	<li>Thursday March 10, 2016, 10:00 a.m. – 7:00 p.m.</li>
-	<li>Friday March 11, 2016, 10:00 a.m. – 4:00 p.m.</li>
-	<li>Saturday March 12, 2016 10:00 a.m. – 4:00 p.m.</li>
+ 	<li>Thursday March 10, 2016, 10:00 a.m. – 7:00 p.m.</li>
+ 	<li>Friday March 11, 2016, 10:00 a.m. – 4:00 p.m.</li>
+ 	<li>Saturday March 12, 2016 10:00 a.m. – 4:00 p.m.</li>
 </ul>
 <em>If you are unable to attend one of the Grad Fairs, you may still </em><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><em>. A $15.95 home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available for purchase.</em>
