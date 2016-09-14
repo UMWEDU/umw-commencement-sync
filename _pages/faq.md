@@ -29,7 +29,7 @@ For Undergraduate Commencement guests will be allowed on Ball Circle to find sea
 <h3>Am I required to wear regalia?</h3>
 Yes, all degree candidates are required to wear regalia. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull.  Regalia can be purchased through the University Bookstore. All regalia orders must be paid in full at the time of purchase.  The University Bookstore accepts Visa, MasterCard, EagleOne, cash and personal checks made payable to the UMW Bookstore.
 <h3>Is there an event following the commencement ceremony?</h3>
-A <a href="https://umwcatering.catertrax.com/shopdisplayproducts.asp?categoryID=101&amp;cat=Order+Tickets+here+for%3A+%3Cbr%3EUndergraduate+Commencement%3Cbr%3ELuncheon+Picnic&amp;intOrderID=&amp;intCustomerID=">picnic lunch</a> is offered immediately following the ceremony. Tickets are required for this event.
+A picnic lunch is offered immediately following the ceremony. Tickets are required for this event.
 <h3>Am I required to attend the commencement ceremony?</h3>
 ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2016, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 14, 2017, for permission to be excused to Rita Dunston, Registrar at rdunston@umw.edu.
 <h3>If I completed my degree requirements in summer or fall preceding the May commencement ceremony, am I still able to participate?</h3>
