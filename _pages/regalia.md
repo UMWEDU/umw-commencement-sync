@@ -7,6 +7,8 @@ post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/commencement/regalia/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>For Undergraduates and Graduates</h2>
 <div>Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:</div>
