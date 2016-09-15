@@ -36,7 +36,7 @@ Seniors and graduate students are invited to a formal celebration with music, fo
 <h2>Friday, May 12th</h2>
 1 p.m.:<strong> Undergraduate Commencement Rehearsal, Dodd Auditorium in George Washington Hall</strong>
 
-<strong>All undergraduate degree candidates are expected to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration. <em>Students are asked to please wear a white or light colored shirt as the class will gather for an aerial photograph during the rehearsal.</em>
+<strong>All undergraduate degree candidates are expected to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions before the rehearsal<em>.</em>
 <h2>Saturday, May 13th</h2>
 <strong>8:15 a.m.: </strong>Candidates for Undergraduate Commencement line up around Jefferson Square
 <strong>Seating is not reserved and will be available on a first-come, first-served basis. The field opens at 7:00 am.</strong>
