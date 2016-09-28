@@ -34,8 +34,6 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 </strong></li>
  	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
 </ul>
-&nbsp;
-
 <strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
 <h3>“The Thursday” : Graduation Ball, University Center, Chandler Ballroom</h3>
 Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Tickets may be picked up in the University Center in room 303, the Office of Student Activities and Engagement. The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. If you have any questions, please contact Student Activities at 540-654-1061 or sae@umw.edu.
