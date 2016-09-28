@@ -24,8 +24,15 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 </ul>
 <strong>Location: </strong>University Bookstore, Lee Hall
 
-<strong>Dates:  </strong><em>Coming Soon!</em><strong>
+<strong>Dates:  </strong><strong>
 </strong>
+<ul>
+ 	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
+ 	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
+</strong></li>
+ 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
+</ul>
+&nbsp;
 
 If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW"><strong>order regalia online</strong></a>. A $15.95 home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.
 <h2>“Day of” Instructions</h2>
