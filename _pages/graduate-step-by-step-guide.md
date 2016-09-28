@@ -32,7 +32,7 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 </strong></li>
  	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
 </ul>
-If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW"><strong>order regalia online</strong></a>. A $15.95 home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.
+<strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
 <h2>“Day of” Instructions</h2>
 Please arrive no later than <strong>6:45 p.m</strong>.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
 <h3>Parking</h3>
