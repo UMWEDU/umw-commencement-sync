@@ -6,8 +6,10 @@ post_date: 2016-01-25 23:43:04
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/schedule/
+  http://www.umw.edu/commencement/schedule/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <a href="http://www.umw.edu/commencement/undergraduate/undergraduate-commencement/">Undergraduate Commencement Schedule</a>
 
