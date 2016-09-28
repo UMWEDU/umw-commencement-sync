@@ -23,8 +23,14 @@ wpcf-home-page-grid-inclusion:
 <div><strong>Location:</strong>University Bookstore, Lee Hall</div>
 <div>
 
-<strong>Dates:  </strong><em>Coming Soon!</em><strong>
-</strong>
+<strong>Dates:  </strong>
+<ul>
+ 	<li>Thursday, March 16 10 a.m. - 7 p.m</li>
+ 	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
+</strong></li>
+ 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
+</ul>
+&nbsp;
 
 </div>
 <div></div>
