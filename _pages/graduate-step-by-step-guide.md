@@ -1,7 +1,7 @@
 ---
 ID: 397
 post_title: Graduate Step-by-Step Guide
-author: Admin
+author: UMW
 post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
@@ -22,16 +22,19 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
  	<li>Class Ring Sizing and Ordering</li>
  	<li>Diploma Frame Selection</li>
 </ul>
-<strong>Location: </strong>University Bookstore, Lee Hall
+<div><strong>Location:</strong>University Bookstore, Lee Hall</div>
+<div>
 
-<strong>Dates:  </strong><strong>
-</strong>
+<strong>Dates:  </strong>
 <ul>
  	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
  	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
 </strong></li>
  	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
 </ul>
+<strong>**You may order regalia online until April 21, 2017.</strong>
+
+</div>
 <strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
 <h2>“Day of” Instructions</h2>
 Please arrive no later than <strong>6:45 p.m</strong>.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
