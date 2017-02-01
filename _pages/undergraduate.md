@@ -1,7 +1,7 @@
 ---
 ID: 214
 post_title: Undergraduate Commencement
-author: Admin
+author: UMW
 post_date: 2015-01-09 20:32:33
 post_excerpt: ""
 layout: page
@@ -14,11 +14,11 @@ wpcf-homepage-copy:
   - |
     Saturday, May 13, 2017 at 9:00 a.m. on <a href="https://goo.gl/maps/YffQz3tmEmw">Ball Circle</a>
     <ul>
-     	<li><a href="https://www.umw.edu/commencement/undergraduate/guide/">Step-by-step Guide</a></li>
-     	<li><a href="https://www.umw.edu/commencement/undergraduate/undergraduate-commencement/">Schedule</a></li>
-     	<li><a href="https://umwcatering.catertrax.com/shopdisplayproducts.asp?categoryID=101&amp;cat=Order+Tickets+here+for%3A+%3Cbr%3EUndergraduate+Commencement%3Cbr%3ELuncheon+Picnic&amp;intOrderID=&amp;intCustomerID=">Picnic</a></li>
-     	<li><a href="https://www.umw.edu/commencement/undergraduate/faq/">FAQ</a></li>
-     	<li><a href="https://www.youtube.com/watch?v=fktgnuUcBCg">Video of 2016 Ceremony</a> [YouTube]</li>
+    <li><a href="https://www.umw.edu/commencement/undergraduate/guide/">Step-by-step Guide</a></li>
+    <li><a href="https://www.umw.edu/commencement/undergraduate/undergraduate-commencement/">Schedule</a></li>
+    <li>Picnic</li>
+    <li><a href="https://www.umw.edu/commencement/undergraduate/faq/">FAQ</a></li>
+    <li><a href="https://www.youtube.com/watch?v=fktgnuUcBCg">Video of 2016 Ceremony</a> [YouTube]</li>
     </ul>
 ---
 Commencement is a weekend-long series of events celebrating students who are graduating. Communication with students and families before and during the weekend is very important.
@@ -36,9 +36,18 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
  	<li>Class Ring Sizing and Ordering</li>
  	<li>Diploma Frame Selection</li>
 </ul>
-<strong>Location: </strong>University Bookstore, Lee Hall
+<strong>Location:</strong>University Bookstore, Lee Hall
 
-<strong>Dates: </strong><em>Coming Soon!</em><strong>
-</strong>
+<strong>Dates:  </strong>
+<ul>
+ 	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
+ 	<li>Friday, March 17 10 a.m. - 4 p.m.</li>
+ 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
+</ul>
+&nbsp;
+
+<strong>**You may order regalia online until April 21, 2017.</strong>
+
+&nbsp;
 
 <em>If you are unable to attend one of the Grad Fairs, you may still </em><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available for purchase.</em>
