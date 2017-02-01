@@ -34,6 +34,8 @@ wpcf-home-page-grid-inclusion:
 </ul>
 &nbsp;
 
+<strong>**You may order regalia online until April 21, 2017.</strong>
+
 </div>
 <div></div>
 <div>If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW">order regalia online</a>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</div>
