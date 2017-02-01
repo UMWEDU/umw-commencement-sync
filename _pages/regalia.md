@@ -1,7 +1,7 @@
 ---
 ID: 219
 post_title: Regalia
-author: Admin
+author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
@@ -11,7 +11,9 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>For Undergraduates and Graduates</h2>
-<div>Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:</div>
+<div>Visit the bookstore during Grad Fair to order your regalia.</div>
+<div></div>
+<div>Representatives will be on hand to help with the following services:</div>
 <div>
 <ul>
  	<li>Regalia Sizing and Pick-up</li>
