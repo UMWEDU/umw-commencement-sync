@@ -43,8 +43,8 @@ Guests and graduates may park in any space on campus that is not designated as r
 <h3>Academic Dress</h3>
 On the day of the ceremony graduates are expected to wear the appropriate regalia. What you wear under your regalia is a personal decision; just make sure you are comfortable and prepared for any plans that day after you remove your commencement gown.
 <h3>Seating Arrangements</h3>
-Graduates will be required to sit in reserved seats. Seating plans will be distributed prior to the ceremony. Guests are invited to find a seat on a first come, first serve basis. The auditorium will open to the public at 6:30 p.m.
+Graduates will be required to sit in reserved seats. Guests are invited to find a seat on a first come, first serve basis. The auditorium will open to the public at 6:30 p.m.
 <h3>The Ceremony</h3>
-<strong>The ceremony starts at 7:30 p.m</strong>. and is open to the public. There are no tickets for the ceremony but it is advised to arrive early for parking and seating.
+<strong>The ceremony starts at 7:30 p.m</strong>. and is open to the public. There are no tickets for the ceremony, but it is advised to arrive early for parking and seating.
 <h3>Photography</h3>
 A professional photographer will take pictures of each graduate as they receive their diploma. These pictures will be made available for purchase. Guests may take photographs during the ceremony from their seats.
