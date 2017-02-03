@@ -6,7 +6,7 @@ post_date: 2015-01-09 20:32:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/
+  https://www.umw.edu/commencement/undergraduate/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
