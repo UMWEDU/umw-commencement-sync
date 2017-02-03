@@ -1,11 +1,11 @@
 ---
 ID: 121
 post_title: Commencement at UMW
-author: Admin
+author: UMW
 post_date: 2014-08-15 18:35:34
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/
+permalink: https://www.umw.edu/commencement/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
