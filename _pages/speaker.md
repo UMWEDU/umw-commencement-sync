@@ -6,7 +6,7 @@ post_date: 2016-09-14 20:45:27
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/speaker/
+  http://www.umw.edu/commencement/undergraduate/speaker/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -20,6 +20,8 @@ A civilian leader for the Department of the Navy and a former president of the U
 
 John D. Burrow, a deputy assistant secretary of the Navy, will give the graduate address on Friday at 7:30 p.m. in Dodd Auditorium, George Washington Hall. Edward Ayers, president emeritus of the University of Richmond, will speak at Saturday’s undergraduate ceremony, which begins at 9 a.m. on Ball Circle of the Fredericksburg campus.
 
+&nbsp;
+
 [caption id="attachment_449" align="alignleft" width="240"]<a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2016/09/Burrows-240x300.jpg"><img class="wp-image-449 size-medium" title="John D. Burrow, deputy assistant secretary of the Navy" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2016/09/Burrows-240x300-240x300.jpg" width="240" height="300" /></a> John D. Burrow, deputy assistant secretary of the Navy[/caption]
 
 John Burrow has spent more than 30 years in service to the federal government. In his current position as a deputy assistant secretary of the Navy, he manages matters associated with the Department of the Navy’s Research, Development, Test and Evaluation investments.As the department’s leader for research and development, he oversees science, technology
@@ -29,6 +31,8 @@ and prototyping efforts across more than 15 naval warfare centers, including mor
 Author and co-author of numerous publications, Burrow has taught at the University of Mary Washington, the Massachusetts Institute of Technology Naval Post Graduate School Professional Summer, and the University of Mississippi.
 
 Among his numerous recognitions, Burrow received the Senior Executive Service Presidential Rank Award in 2015, the Navy’s Distinguished Civilian Service Award and the department’s Commendation for Superior Civilian Service in 2014.
+
+&nbsp;
 
 [caption id="attachment_450" align="alignleft" width="200"]<img class="wp-image-450 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2016/09/ayers_edward2-200x300-200x300.jpg" width="200" height="300" /> Edward L. Ayers, former president of the University of Richmond[/caption]
 
