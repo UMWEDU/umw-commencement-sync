@@ -22,7 +22,6 @@ wpcf-home-page-grid-inclusion:
 <h5 style="text-align: center"><em>Roasted Corn and Black Bean Salad  </em></h5>
 <h5 style="text-align: center"><em>Bulk Potato Chips in bowls with tongs.</em></h5>
 <h5 style="text-align: center"><em>Assorted Petite Rolls and Butter</em></h5>
-<p style="text-align: center"></p>
 <p style="text-align: center"><strong><em>Dessert Station
 </em></strong></p>
 <p style="text-align: center"><em>Seedless Watermelon</em></p>
