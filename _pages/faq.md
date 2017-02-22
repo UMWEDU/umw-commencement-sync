@@ -6,12 +6,12 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/faq/
+  https://www.umw.edu/commencement/undergraduate/faq/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Frequently Asked Questions</h2>
 <h3>When and where is the Undergraduate Commencement Ceremony?</h3>
