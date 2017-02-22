@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Frequently Asked Questions</h2>
 <h3>When and where is the Undergraduate Commencement Ceremony?</h3>
