@@ -5,12 +5,13 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/regalia/
+permalink: >
+  https://www.umw.edu/commencement/regalia/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>For Undergraduates and Graduates</h2>
 <div>Visit the bookstore during Grad Fair to order your regalia.</div>
