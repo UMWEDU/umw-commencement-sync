@@ -6,37 +6,15 @@ post_date: 2015-08-01 02:55:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/undergraduate-commencement/
+  http://www.umw.edu/commencement/undergraduate/undergraduate-commencement/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057182097;s:3:"url";s:73:"http://www.umw.edu/commencement/undergraduate/undergraduate-commencement/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057182097";}s:4:"time";i:1458153310;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
-<h2>Regalia</h2>
-For Undergraduates and Graduates
-
-Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:
-<ul type="disc">
- 	<li>Regalia Sizing and Pick-up</li>
- 	<li>Personalized Graduation Announcement Ordering</li>
- 	<li>Class Ring Sizing and Ordering</li>
- 	<li>Diploma Frame Selection</li>
-</ul>
-<div><strong>Location:</strong>University Bookstore, Lee Hall</div>
-<div>
-
-<strong>Dates:  </strong>
-<ul>
- 	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
- 	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
-</strong></li>
- 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
-</ul>
-<strong>**You may order regalia online until April 21, 2017.</strong>
-
-</div>
-If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW" target="_blank" rel="nofollow">order regalia online</a>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.
 <h2>Thursday, May 11th</h2>
 <strong>9 p.m. – 1 a.m.: </strong>Graduation Ball, Chandler Ballroom– The University Center
 
