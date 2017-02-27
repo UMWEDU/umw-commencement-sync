@@ -5,8 +5,7 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/commencement/regalia/
+permalink: http://www.umw.edu/commencement/regalia/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -25,21 +24,24 @@ yst_prominent_words_version:
  	<li>Diploma Frame Selection</li>
 </ul>
 </div>
-<div><strong>Location:</strong>University Bookstore, Lee Hall</div>
+<div><strong>Location: </strong>University Bookstore, Lee Hall</div>
 <div>
 
-<strong>Dates:  </strong>
+<strong>Grad Fair Dates:  </strong>
 <ul>
  	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
  	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
 </strong></li>
  	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
 </ul>
-&nbsp;
+UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble which includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-<strong>**You may order regalia online until April 21, 2017.</strong>
+The UMW Bookstore will have a limited supply of regalia available after March 18th.
+
+<strong>Online Options</strong>
 
 </div>
-<div></div>
-<div>If you are unable to attend one of the Grad Fairs, you may still <a href="http://www.oakhalli.com/UMW">order regalia online</a>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</div>
+<div><a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th
+
+</div>
 <div></div>
