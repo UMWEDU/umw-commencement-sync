@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Graduate and Undergraduate Commencement</h2>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington lot is reserved for handicapped parking only. You must display your handicapped decal or have a designated license plate to park in this lot.
