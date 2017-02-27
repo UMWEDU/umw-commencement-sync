@@ -9,6 +9,8 @@ permalink: https://www.umw.edu/commencement/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 Graduate Commencement takes place on Friday, May 12, 2017 and Undergraduate Commencement takes place on Saturday, May 13, 2017. Commencement is a formal event celebrating students who are graduating. Most students take part in Commencement, but participation is not required in order to graduate.
 
