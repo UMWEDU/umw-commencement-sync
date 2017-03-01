@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -64,20 +64,11 @@ The candidates are to line up around Jefferson Square where ushers will be avail
 Graduates will be required to sit in reserved seats. A seating plan will be distributed prior to the ceremony at rehearsal. Guests are invited to find a seat on a first come, first serve basis.
 <h4>Academic Dress</h4>
 On the day of the ceremony graduates are expected to wear the appropriate regalia that you have ordered. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
-
-&nbsp;
-
-&nbsp;
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
-<h4>Post-ceremony Picnic Tickets</h4>
-Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Picnic on Palmieri Plaza. Tickets are required and can be <strong>purchased online</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event.
+<h4>Post-ceremony Picnic, Palmieri Plaza                                                                                                                                                                                                    12:00 p.m. to 2:00 p.m.</h4>
+Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Picnic on Palmieri Plaza. Tickets are required and can be <strong>purchased online beginning March 15, 2017</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
-Tickets for adults and children can be purchased online by <strong>May 12, 2017</strong> and may be picked up in the Office of Events, George Washington Hall, Rm 111, M-F, 8 a.m. – 5 p.m.. Alternatively, guests may request that tickets be mailed directly to the address entered during purchase.
-<ul>
- 	<li><strong>Location:</strong> Palmieri Plaza</li>
- 	<li><strong>Time:</strong> Serving from 12:00 p.m. – 2:00 p.m.</li>
- 	<li><strong>Menu:</strong> <em>Coming Soon!</em></li>
-</ul>
+Ticket prices for adults are $11.50 and  $5.50 for children and may be picked up in the Office of Events and Conferencing, George Washington Hall, Rm 111, M-F, 8 a.m. – 5 p.m. until May 11, 2017. Alternatively, guests may request that tickets be mailed directly to the address entered during purchase.
 <h2>Severe Weather Plan</h2>
 The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the commencement exercises will be moved inside. If necessary more detailed information on the inclement weather plan will be posted on this website closer to Commencement.
