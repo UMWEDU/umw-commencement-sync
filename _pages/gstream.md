@@ -6,7 +6,7 @@ post_date: 2015-05-08 21:33:12
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/gstream/
+  http://www.umw.edu/commencement/graduate-commencement/gstream/
 published: true
 yst_prominent_words_version:
   - "1"
