@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -15,9 +15,8 @@ yst_prominent_words_version:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-&nbsp;
 <h2>Start with the Registrar's Office</h2>
-The year prior to the anticipated graduate date students will receive an email announcement in their junior year from the Registrar’s Office that the office is accepting Degree Applications for the graduating class of the following year. Each student must come to the Registrar’s Office to pick up and submit a degree application. You can find more information at <a href="http://academics.umw.edu/registrar/graduation-information/"><strong>Registrar’s Office</strong></a>.
+One year prior to the student's anticipated graduate date, the Registrar’s Office will send an email announcing that Degree Applications for the following year are available. Each student must come to the Registrar’s Office to pick-up and submit a Degree Application. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/"><strong>Registrar’s Office</strong></a> website.
 <h2>Don't Miss Grad Fair</h2>
 <div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings and view our diploma frame selection.</div>
 <div></div>
@@ -40,32 +39,35 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 </div>
 <div>
 
-<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.
-
-<u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
-
+<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
+<h2>Celebrate!</h2>
 </div>
-<div></div>
-<h3>Thursday, May 11, 2017: Graduation Ball, Chandler Ballroom - The University Center</h3>
-Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Tickets may be picked up in the University Center in room 303, the Office of Student Activities and Engagement. The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. If you have any questions, please contact Student Activities at 540-654-1061 or sae@umw.edu.
-<h3>“The Friday” : Undergraduate Commencement Rehearsal</h3>
-1:oo p.m. – 3:15 p.m., Dodd Auditorium, George Washington Hall
+<h3>Graduation Ball, The Anderson Center                                                                                                                                               Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
+Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine &amp; beer bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Grad Ball tickets will be available for pickup from April 28th until May 10th in the Office of Student Activities and Engagement, University Center in room 303. There will be a will call option for December graduates via email. Just send an email requesting tickets to <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a>.
 
-All undergraduate degree candidates are expected to attend rehearsal and are <strong><em>advised to wear white or a light color for an aerial class photo</em>.</strong> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
-<h3>“The Day of”: Instructions</h3>
-<strong>Please arrive no later than 8:15 a.m</strong>. The Candidates for Undergraduate Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
+The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. The event is for seniors and graduate students who graduated in Fall 2016 or are graduating in Spring 2017. If you have any questions, please contact Student Activities at (540) 654-1061 or sae@umw.edu.
+<h2>Practice Makes Perfect</h2>
+<h3>Undergraduate Commencement Rehearsal, Dodd Auditorium, George Washington Hall                                                       Friday, May 12, 2017   ~  1:00 p.m.  to  3:15 p.m.</h3>
+All undergraduate degree candidates are expected to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
+<h2>It's Your Day!</h2>
+<h3>Undergraduate Commencement, May 13, 2017</h3>
+<strong>Please arrive no later than 8:15 a.m in your regalia</strong>. Candidates for Undergraduate Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
 
 The procession will begin promptly at 9 a.m. The Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington Hall Parking Lot is designated completely for handicapped parking. There will be golf carts transporting guests from this lot to Ball Circle.
 <h4>The Venue</h4>
-The venue for Undergraduate Commencement is on Ball Circle. The candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the Candidates for Undergraduate Commencement will process down campus walk and onto Ball Circle.
-<h4>Academic Dress</h4>
-On the day of the ceremony graduates are expected to wear the appropriate regalia that you have ordered. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
+The venue for Undergraduate Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live from the University web page and also on a large screen at Ball Circle.
+
+The candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the Candidates for Undergraduate Commencement will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
 <h4>Seating Arrangements</h4>
 Graduates will be required to sit in reserved seats. A seating plan will be distributed prior to the ceremony at rehearsal. Guests are invited to find a seat on a first come, first serve basis.
-<h3>Undergraduate Commencement Ceremony — 9:00 a.m.:</h3>
-The ceremony is open to the public. There are no tickets for the ceremony so it is advised to arrive early for prime parking and seating.
+<h4>Academic Dress</h4>
+On the day of the ceremony graduates are expected to wear the appropriate regalia that you have ordered. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
+
+&nbsp;
+
+&nbsp;
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
 <h4>Post-ceremony Picnic Tickets</h4>
