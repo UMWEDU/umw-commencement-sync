@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -15,29 +15,49 @@ wpcf-home-page-grid-inclusion:
 yst_prominent_words_version:
   - "1"
 ---
-<h2>First Step</h2>
+&nbsp;
+<h2>Start with the Registrar's Office</h2>
 The year prior to the anticipated graduate date students will receive an email announcement in their junior year from the Registrar’s Office that the office is accepting Degree Applications for the graduating class of the following year. Each student must come to the Registrar’s Office to pick up and submit a degree application. You can find more information at <a href="http://academics.umw.edu/registrar/graduation-information/"><strong>Registrar’s Office</strong></a>.
-<h2>Next Steps</h2>
-<h3>Ordering Regalia</h3>
-Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:
+<h2></h2>
+<h2>Ordering Regalia</h2>
+<h5>For Undergraduates and Graduates</h5>
+<div>Visit the bookstore during Grad Fair to order your regalia.</div>
+<div></div>
+<div>Representatives will be on hand to help with the following services:</div>
+<div>
 <ul>
  	<li>Regalia Sizing and Pick-up</li>
  	<li>Personalized Graduation Announcement Ordering</li>
  	<li>Class Ring Sizing and Ordering</li>
  	<li>Diploma Frame Selection</li>
 </ul>
-<strong>Location: </strong>University Bookstore, Lee Hall
+</div>
+<div><strong>Location: </strong>University Bookstore, Lee Hall</div>
+<div>
 
-<strong>Dates:  </strong><strong>
-</strong>
+<strong>Grad Fair Dates:  </strong>
 <ul>
  	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
  	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
 </strong></li>
  	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
 </ul>
-<strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
-<h3>“The Thursday” : Graduation Ball, Chandler Ballroom - The University Center</h3>
+UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble which includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
+
+The UMW Bookstore will have a limited supply of regalia available after March 18th.
+
+<strong>Online Options</strong>
+
+</div>
+<div>
+
+<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.
+
+<u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
+
+</div>
+<div></div>
+<h3>Thursday, May 11, 2017: Graduation Ball, Chandler Ballroom - The University Center</h3>
 Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Tickets may be picked up in the University Center in room 303, the Office of Student Activities and Engagement. The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. If you have any questions, please contact Student Activities at 540-654-1061 or sae@umw.edu.
 <h3>“The Friday” : Undergraduate Commencement Rehearsal</h3>
 1:oo p.m. – 3:15 p.m., Dodd Auditorium, George Washington Hall
