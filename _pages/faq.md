@@ -6,44 +6,41 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Frequently Asked Questions</h2>
-<h3>When and where is the Undergraduate Commencement Ceremony?</h3>
+<h2>When and where is the Undergraduate Commencement Ceremony?</h2>
 The Undergraduate Ceremony will take place Saturday, May 13, 2017, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
-<h3>What time can I go to Ball Circle to find a seat?</h3>
-Ball Circle will open for guests to go onto the field and find their seats at 7:00 am the day of Commencement.
+<h3>What time should I arrive?</h3>
+Ball Circle will open for seating at 7:00 a.m. the day of Commencement. We ask that guests are seated prior to 9:00 a.m. processional down campus walk.
 <h3>How long is the commencement ceremony?</h3>
 The ceremony will last approximately three hours.
 <h3>Are tickets required?</h3>
-No, tickets are not required to attend the ceremony.
+No, tickets are not required to attend the ceremony. Seating is on a first come, first serve basis.
 <h3>Who do I contact if someone in my family needs a special accommodation?</h3>
-Any person attending commencement that requires a special accommodation should contact the Events Office at (540) 654-1276 as soon as possible to arrange for accommodations.
-<h3>Do I need a ticket to attend commencement?</h3>
-There are no tickets or reserved seats. Seating is on a first come, first serve basis.
-<h3>What time will I be allowed on the field to find a seat?</h3>
-For Undergraduate Commencement guests will be allowed on Ball Circle to find seating starting at 7:00 a.m.
-<h3>Am I required to wear regalia?</h3>
-Yes, all degree candidates are required to wear regalia. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull.  Regalia can be purchased through the University Bookstore. All regalia orders must be paid in full at the time of purchase.  The University Bookstore accepts Visa, MasterCard, EagleOne, cash and personal checks made payable to the UMW Bookstore.
+The ceremony on Ball Circle is one level and fully accessible with flexible seating.
+
+The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 13, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. Additional golf cart shuttles will be available near designated handicapped parking in the Lee Hall and in Monroe Hall parking lots.
+
+The University will be providing American Sign Language (ASL) interpreters. Please contact the Events Office at (540) 654-1276 as soon as possible to arrange for reserved seating.
+<h3>Am I allowed to decorate my regalia cap?</h3>
+All degree candidates are welcome to personalize their caps being mindful of our community values.
 <h3>Is there an event following the commencement ceremony?</h3>
 A picnic lunch is offered immediately following the ceremony. Tickets are required for this event.
-<h3>Am I required to attend the commencement ceremony?</h3>
+<h3>Who participates in the commencement ceremony?</h3>
 ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2016, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 14, 2017, for permission to be excused to Rita Dunston, Registrar at rdunston@umw.edu.
-<h3>If I completed my degree requirements in summer or fall preceding the May commencement ceremony, am I still able to participate?</h3>
-Yes.  As a student, if you have already received your diploma you are on the graduation list. Please contact the Office of the Registrar at (540) 654-1063 if you have additional questions.
 <h3>If my student completed his/her degree requirements in the Fall, is there a separate Commencement Ceremony?</h3>
 There is only one Commencement Ceremony each year in May. If a student completes all degree requirements in the Fall they are invited to participate the following May but are not required to, it is their personal choice.
-<h3>If I complete my degree requirements in the summer following the May commencement ceremony, am I still able to participate?</h3>
+<h3>If I complete my degree requirements this summer, am I allowed to participate in the May ceremony?</h3>
 As a special exception, if a student is one course from completing degree requirement and can complete the following summer, then may apply to participate in the commencement ceremony.
 <h3>If a graduating student or guest requires special accommodations, what should I do?</h3>
 Please notify the Office of University and Conferencing Events by <strong>April 21, 2017</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form. All venues are wheelchair accessible.
 
-<strong> </strong><strong>Will professional photos be taken of graduating students?</strong>
+<strong>Will professional photos be taken of graduating students?</strong>
 
 Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 1 to 3 days and via postal mail within 5 to 7 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com">placed online</a> or by calling 1-800-261-2576.
 
