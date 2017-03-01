@@ -10,6 +10,8 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 https://www.youtube.com/watch?v=eJwj1Uem7Qs
 
