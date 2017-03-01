@@ -1,7 +1,7 @@
 ---
 ID: 360
 post_title: Graduate Ceremony Video
-author: Admin
+author: UMW
 post_date: 2015-05-08 21:33:12
 post_excerpt: ""
 layout: page
