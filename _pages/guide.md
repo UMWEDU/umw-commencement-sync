@@ -6,14 +6,14 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/guide/
+  https://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 &nbsp;
 <h2>Start with the Registrar's Office</h2>
