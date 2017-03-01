@@ -1,7 +1,7 @@
 ---
 ID: 362
 post_title: Undergraduate Ceremony Video
-author: Admin
+author: UMW
 post_date: 2015-05-08 21:33:52
 post_excerpt: ""
 layout: page
