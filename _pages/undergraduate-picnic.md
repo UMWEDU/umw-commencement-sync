@@ -6,7 +6,7 @@ post_date: 2016-03-24 01:50:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate-picnic/
+  http://www.umw.edu/commencement/undergraduate-picnic/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2 style="text-align: center">Saturday, May 13th</h2>
-<p style="text-align: center"><strong>12:00 p.m. – 1:30 p.m., Commencement Picnic, Palmieri Plaza</strong></p>
+<p style="text-align: center"><strong>12:00 p.m. – 2:00 p.m., Commencement Picnic, Palmieri Plaza (in front of Monroe Hall)</strong></p>
 <p style="text-align: center">Celebrate commencement with family and friends at the Commencement Picnic Lunch held in Palmieri Plaza on the Fredericksburg Campus.</p>
 <p style="text-align: center"><strong>Tickets will be available online in March 15, 2017</strong>.</p>
 <p style="text-align: center">Tickets purchased online may be picked up at the Office of Events in George Washington Hall, Room 111, Monday - Friday, 8:00am - 5:00pm (pick up only after May 8th - 12th, 2017) or can be mailed to you directly. Tickets will be sold online from March 15th - May 7th and a limited number of tickets MAY be available for sale on the date of the event.</p>
