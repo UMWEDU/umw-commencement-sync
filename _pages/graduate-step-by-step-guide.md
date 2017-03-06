@@ -6,7 +6,7 @@ post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
+  https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
