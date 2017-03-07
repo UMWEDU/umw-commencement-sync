@@ -6,7 +6,7 @@ post_date: 2015-01-12 21:38:25
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/graduate-commencement/
+  https://www.umw.edu/commencement/graduate-commencement/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
