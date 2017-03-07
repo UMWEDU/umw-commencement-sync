@@ -6,12 +6,14 @@ post_date: 2015-08-01 03:03:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/graduate-commencement/graduate-schedule/
+  https://www.umw.edu/commencement/graduate-commencement/graduate-schedule/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057153414;s:3:"url";s:72:"http://www.umw.edu/commencement/graduate-commencement/graduate-schedule/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057153414";}s:4:"time";i:1458152547;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Thursday, May 11th</h2>
 <strong>9 p.m. – 1 a.m.: </strong>Graduation Ball: Chandler Ballroom, The University Center
