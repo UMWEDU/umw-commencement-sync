@@ -37,9 +37,7 @@ ALL candidates for undergraduate degrees are expected to attend the commencement
 There is only one Commencement Ceremony each year in May. If a student completes all degree requirements in the Fall they are invited to participate the following May but are not required to, it is their personal choice.
 <h3>If a graduating student or guest requires special accommodations, what should I do?</h3>
 All venues are wheelchair accessible. Please contact the Office of Events and Conferencing if you have questions or concerns by <strong>April 21, 2017</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form.
-
-<strong>Will professional photos be taken of graduating students?</strong>
-
+<h3><strong>Will professional photos be taken of graduating students?</strong></h3>
 Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 1 to 3 days and via postal mail within 5 to 7 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com">placed online</a> or by calling 1-800-261-2576.
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
