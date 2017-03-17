@@ -6,7 +6,7 @@ post_date: 2014-07-25 15:22:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/contact-us/
+  https://www.umw.edu/commencement/contact-us/
 published: true
 yst_prominent_words_version:
   - "1"
