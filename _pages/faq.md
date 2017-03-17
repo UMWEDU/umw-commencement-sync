@@ -6,7 +6,7 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -26,7 +26,7 @@ The ceremony on Ball Circle is one level and fully accessible with flexible seat
 
 The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 13, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. Additional golf cart shuttles will be available near designated handicapped parking in the Lee Hall and in Monroe Hall parking lots.
 
-The University will be providing American Sign Language (ASL) interpreters. Please contact the Events Office at (540) 654-1276 as soon as possible to arrange for reserved seating.
+The University will be providing American Sign Language (ASL) interpreters. Please contact the Events Office at (540) 654-1087 as soon as possible to arrange for reserved seating.
 <h3>Am I allowed to decorate my regalia cap?</h3>
 All degree candidates are welcome to personalize their caps being mindful of our community values.
 <h3>Is there an event following the commencement ceremony?</h3>
