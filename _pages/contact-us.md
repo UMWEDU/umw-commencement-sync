@@ -13,7 +13,7 @@ yst_prominent_words_version:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Email us, we're happy to help!</h2>
+<h2>We're happy to help!</h2>
 [gravityform id="1" name="Contact Us" title="false" ajax="true"]
 
 &nbsp;
