@@ -6,12 +6,12 @@ post_date: 2014-07-25 15:22:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/contact-us/
+  https://www.umw.edu/commencement/contact-us/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Email us, we're happy to help!</h2>
 [gravityform id="1" name="Contact Us" title="false" ajax="true"]
