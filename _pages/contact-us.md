@@ -6,7 +6,7 @@ post_date: 2014-07-25 15:22:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/contact-us/
+  http://www.umw.edu/commencement/contact-us/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -19,7 +19,7 @@ wpcf-home-page-grid-inclusion:
 &nbsp;
 <h2>Event Information</h2>
 <ul>
- 	<li>Commencement Ceremonies – Ali Gauch Hieber  540-654-1276</li>
+ 	<li>Commencement Ceremonies – Ali Gauch Hieber  540-654-1087</li>
 </ul>
 <h2>Diploma Questions</h2>
 <ul>
