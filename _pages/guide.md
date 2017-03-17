@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -68,6 +68,10 @@ Graduates will be required to sit in reserved seats. A seating plan will be dist
 On the day of the ceremony graduates are expected to wear the appropriate regalia that you have ordered. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
+<h4>Flowers</h4>
+A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
+
+<a href="https://www.thecommencementgroup.com/marywashington">https://www.thecommencementgroup.com/marywashington</a>
 <h4>Post-ceremony Picnic, Palmieri Plaza                                                                                                                                                                                                    12:00 p.m. to 2:00 p.m.</h4>
 Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Picnic on Palmieri Plaza. Tickets are required and can be <strong>purchased online beginning March 15, 2017</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
