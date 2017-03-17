@@ -2,11 +2,11 @@
 ID: 414
 post_title: Undergraduate Picnic Menu
 author: Shelley Keith
-post_date: 2016-03-24 01:50:14
+post_date: 2017-03-17 08:46:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate-picnic/
+  http://www.umw.edu/commencement/undergraduate-picnic/
 published: true
 yst_prominent_words_version:
   - "1"
