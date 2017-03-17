@@ -6,10 +6,12 @@ post_date: 2015-02-12 20:40:16
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/gradfaq/
+  http://www.umw.edu/commencement/graduate-commencement/gradfaq/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <strong>When and where is the graduate commencement ceremony?
 </strong>The Graduate Commencement Ceremony will take place on May 12, 2017 in George Washington Hall, Dodd Auditorium at 7:30 p.m.
@@ -33,7 +35,7 @@ ALL candidates for degrees are expected to attend the commencement ceremony inc
 No.  Since you will not have completed your requirements by May, you are not permitted to participate in commencement this year. You would be eligible to participate in the ceremony the following year.
 
 <strong>If a graduating student or guest requires special accommodations, what should I do?</strong>
-Please notify the Office of Events and Conferencing by <strong>April 21, 2017</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form. All venues are wheelchair accessible.
+Please notify the Office of Events and Conferencing no later than <strong>April 21, 2017</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form or calling (540) 654-1087. All venues are wheelchair accessible, but advance notification is needed.
 
 <strong>Will professional photos be taken of graduating students?</strong>
 Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 1 to 3 days and via postal mail within 5 to 7 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com">placed online</a> or by calling 1-800-261-2576.
