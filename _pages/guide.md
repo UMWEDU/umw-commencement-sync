@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -77,4 +77,4 @@ Immediately following the ceremony, you are invited to celebrate with family and
 
 Ticket prices for adults are $11.50 and  $5.50 for children and may be picked up in the Office of Events and Conferencing, George Washington Hall, Rm 111, M-F, 8 a.m. – 5 p.m. until May 11, 2017. Alternatively, guests may request that tickets be mailed directly to the address entered during purchase.
 <h2>Severe Weather Plan</h2>
-The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the commencement exercises will be moved inside. If necessary more detailed information on the inclement weather plan will be posted on this website closer to Commencement.
+The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the commencement exercises will be moved inside. If necessary more detailed information on the severe weather plan will be posted on this website closer to Commencement.
