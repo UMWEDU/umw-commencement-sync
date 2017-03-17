@@ -6,7 +6,7 @@ post_date: 2015-02-12 20:40:16
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/graduate-commencement/gradfaq/
+  https://www.umw.edu/commencement/graduate-commencement/gradfaq/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
