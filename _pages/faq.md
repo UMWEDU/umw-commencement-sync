@@ -6,7 +6,7 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -44,4 +44,8 @@ Yes, a photographer from GradImages® will be at the commencement ceremony to ph
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
 <h3>Will flowers be available for sale?</h3>
-Yes, a flower vendor will be on campus walk for guests to purchase flowers for their graduate.
+Yes, a flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
+
+<a href="https://www.thecommencementgroup.com/marywashington"><span style="color: #0563c1;font-family: Calibri">https://www.thecommencementgroup.com/marywashington</span></a>
+
+<span style="color: #000000;font-family: Calibri"> </span>
