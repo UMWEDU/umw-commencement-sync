@@ -6,7 +6,7 @@ post_date: 2017-03-17 08:46:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate-picnic/
+  http://www.umw.edu/commencement/undergraduate-picnic/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -16,7 +16,7 @@ wpcf-home-page-grid-inclusion:
 <h2 style="text-align: center">Saturday, May 13th</h2>
 <p style="text-align: center"><strong>12:00 p.m. – 2:00 p.m., Commencement Picnic, Palmieri Plaza (in front of Monroe Hall)</strong></p>
 <p style="text-align: center">Celebrate commencement with family and friends at the Commencement Picnic Lunch held in Palmieri Plaza on the Fredericksburg Campus.</p>
-<p style="text-align: center"><strong>Tickets will be available soon</strong>.</p>
+<p style="text-align: center"><a href="http://alumni.umw.edu/commencementpicnic"><strong>Tickets are now available </strong></a></p>
 <p style="text-align: center">Tickets purchased may mailed from March 20th-May 7th.  Tickets purchased May 8th-May 12th MUST be picked up at the Office of Events in George Washington Hall, Room 111, Monday - Friday, 8:00am - 5:00pm.  A limited number of tickets MAY be available for sale on the date of the event.</p>
 <p style="text-align: center"> <a href="https://www.google.com/maps/place/The+Fountain+Of+Greatness/@38.3035824,-77.4752158,3a,75y,90t/data=!3m8!1e2!3m6!1s-mo8mWQMNv3o%2FV6IyTuY5iRI%2FAAAAAAAAJng%2FWfKE-vMWHgg5Pi5SPiHB478VtgbD8fMGACLIB!2e4!3e12!6s%2F%2Flh6.googleusercontent.com%2F-mo8mWQMNv3o%2FV6IyTuY5iRI%2FAAAAAAAAJng%2FWfKE-vMWHgg5Pi5SPiHB478VtgbD8fMGACLIB%2Fs114-k-no%2F!7i3264!8i2448!4m5!3m4!1s0x0:0x70b39f8a2e9df0bf!8m2!3d38.3035824!4d-77.4752158!6m1!1e1">[image</a> | <a href="https://goo.gl/maps/lWYhP">map</a>]</p>
 <p style="text-align: center"><em>In case of rain, the picnic lunch will be held in the </em><em>University Center, Chandler Ballroom.</em></p>
@@ -39,7 +39,7 @@ Tossed with Bell Peppers, Red Onion, Cumin and Lime Vinaigrette<strong>
 </strong></p>
 <p style="text-align: center"><strong>Desert </strong></p>
 <p style="text-align: center">Fresh Sliced Watermelon
-UMW Sugar Cookies
+Cookies
 Assorted Frosted Cupcakes<strong>
 </strong></p>
 <p style="text-align: center"><strong>Beverage Station</strong></p>
