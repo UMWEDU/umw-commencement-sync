@@ -5,8 +5,7 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/commencement/regalia/
+permalink: http://www.umw.edu/commencement/regalia/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -53,7 +52,7 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 
 <strong>Commencement Cords</strong>
 
-Students may be eligible to wear cords denoting University activities outside classroom. Contact your club or organizational leadership for eligibility criteria. For additional information, contact Golda Eldridge Ed.D, Director of Leadership Center for Honor, Leadership and Service at 540-654-1665 or <a href="mailto:geldridg@umw.edu">geldridg@umw.edu</a>.
+Students may be eligible to wear cords denoting University activities outside classroom. Contact your club or organizational leadership for eligibility criteria. For additional information, contact Golda Eldridge Ed.D, Director of Leadership Center for Honor, Leadership and Service at 540-654-1665 or <a href="mailto:geldridg@umw.edu">geldridg@umw.edu</a>.<a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a>
 
 <span style="color: #000000">
 <strong>Activity                                           Cord Color</strong>
