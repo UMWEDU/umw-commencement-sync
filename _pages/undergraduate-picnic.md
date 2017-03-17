@@ -6,7 +6,7 @@ post_date: 2017-03-17 08:46:14
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate-picnic/
+  https://www.umw.edu/commencement/undergraduate-picnic/
 published: true
 yst_prominent_words_version:
   - "1"
