@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>First Step</h2>
 The year prior to the anticipated graduation date all graduate students must submit a degree application to the Office of the Registrar one year prior to the anticipated graduation date. While all other degree requirements may have been met, no student is allowed to graduate unless the application has been filed appropriately. Degree applications are available in the Office of the Registrar and in the Office of Advising Services. You can find more information at Graduation Information Registrar.
