@@ -5,7 +5,8 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/regalia/
+permalink: >
+  https://www.umw.edu/commencement/regalia/
 published: true
 yst_prominent_words_version:
   - "1"
