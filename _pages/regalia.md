@@ -5,8 +5,7 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/commencement/regalia/
+permalink: http://www.umw.edu/commencement/regalia/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -49,4 +48,23 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 <u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
 
 </div>
-<div></div>
+<div>
+
+<strong>Commencement Cords</strong>
+
+Students may be eligible to wear cords denoting University activities outside classroom. Contact your club or organizational leadership for eligibility criteria. For additional information, contact Golda Eldridge Ed.D, Director of Leadership Center for Honor, Leadership and Service at 540-654-1665 or <a href="mailto:geldridg@umw.edu">geldridg@umw.edu</a>.
+
+<span style="color: #000000">
+<strong>Activity                                    Cord Color</strong>
+Athletics (varsity)                             Gray
+Campus Rec Sport Clubs                Red
+Community Service                         Light Blue
+Horizons program                           Royal Blue
+Leadership                                        Green</span>
+<span style="color: #000000">Multicultural Center                       Purple
+Student Activities clubs                 Orange
+Veterans                                            Red, White and Blue</span>
+
+&nbsp;
+
+</div>
