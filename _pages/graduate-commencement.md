@@ -19,6 +19,8 @@ wpcf-homepage-copy:
     <li><a href="https://www.umw.edu/commencement/graduate-commencement/gradfaq/">FAQ</a></li>
     <li><a href="https://www.youtube.com/watch?v=kdOoPFnnRbQ">Video of 2016 Ceremony</a> [YouTube]</li>
     </ul>
+yst_prominent_words_version:
+  - "1"
 ---
 Commencement for our Graduate Students takes place in George Washington Hall, Dodd Auditorium. There are a variety of events that will take place to assist you in preparing for the  big day.
 <h2>Preparing for Commencement</h2>
