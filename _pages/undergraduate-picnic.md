@@ -6,7 +6,7 @@ post_date: 2017-03-17 08:46:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate-picnic/
+  http://www.umw.edu/commencement/undergraduate-picnic/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -44,4 +44,4 @@ Assorted Frosted Cupcakes<strong>
 </strong></p>
 <p style="text-align: center"><strong>Beverage Station</strong></p>
 <p style="text-align: center">Lemonade, Sweet and Unsweetened Iced Tea, Iced Water</p>
-<p style="text-align: center">For questions regarding the menu please contact the catering office at 540-654-1930.</p>
+<p style="text-align: center">In event of rain, the picnic will be moved to the University Center, Chandler Ballroom. For questions regarding the menu please contact the catering office at 540-654-1930.</p>
