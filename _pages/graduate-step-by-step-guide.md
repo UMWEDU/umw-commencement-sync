@@ -6,7 +6,7 @@ post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
+  http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -50,3 +50,7 @@ Graduates will be required to sit in reserved seats. Guests are invited to find 
 <strong>The ceremony starts at 7:30 p.m</strong>. and is open to the public. There are no tickets for the ceremony, but it is advised to arrive early for parking and seating.
 <h3>Photography</h3>
 A professional photographer will take pictures of each graduate as they receive their diploma. These pictures will be made available for purchase. Guests may take photographs during the ceremony from their seats.
+<h3>Flowers</h3>
+A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
+
+<a href="https://www.thecommencementgroup.com/marywashington">https://www.thecommencementgroup.com/marywashington</a>
