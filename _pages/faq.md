@@ -6,7 +6,7 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -32,7 +32,7 @@ All degree candidates are welcome to personalize their caps being mindful of ou
 <h3>Is there an event following the commencement ceremony?</h3>
 A picnic lunch is offered immediately following the ceremony. Tickets are required for this event.
 <h3>Who participates in the commencement ceremony?</h3>
-ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2016, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 14, 2017, for permission to be excused to Rita Dunston, Registrar at rdunston@umw.edu.
+ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2016, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 14, 2017, for permission to be excused to Sharon Williamson, Office of the Registrar at swilli28@umw.edu.
 <h3>If my student completed his/her degree requirements in the Fall, is there a separate Commencement Ceremony?</h3>
 There is only one Commencement Ceremony each year in May. If a student completes all degree requirements in the Fall they are invited to participate the following May but are not required to, it is their personal choice.
 <h3>If a graduating student or guest requires special accommodations, what should I do?</h3>
