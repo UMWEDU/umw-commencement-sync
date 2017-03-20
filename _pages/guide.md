@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -19,8 +19,8 @@ wpcf-home-page-grid-inclusion:
 <span style="color: #000000;font-family: Calibri">Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/"><strong>Registrar’s Office</strong></a> website.</span>
 
 &nbsp;
-<h2>Don't Miss Grad Fair</h2>
-<div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings and view our diploma frame selection.</div>
+<h2>Get what you need!</h2>
+<div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings and view our diploma frame selection or shop online!</div>
 <div></div>
 <div><strong>Location: </strong>University Bookstore, Lee Hall</div>
 <div>
@@ -42,9 +42,11 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 <div>
 
 <a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
+
+Personalize your graduation announcements by visiting: www.cbgrad.balfour.com or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <h2>Celebrate!</h2>
 </div>
-<h3>Graduation Ball, The Anderson Center                                                                                                                                               Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
+<h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
 Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine &amp; beer bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Grad Ball tickets will be available for pickup from April 28th until May 10th in the Office of Student Activities and Engagement, University Center in room 303. There will be a will call option for December graduates via email. Just send an email requesting tickets to <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a>.
 
 The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. The event is for seniors and graduate students who graduated in Fall 2016 or are graduating in Spring 2017. If you have any questions, please contact Student Activities at (540) 654-1061 or sae@umw.edu.
