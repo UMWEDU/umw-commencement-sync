@@ -5,8 +5,7 @@ author: UMW
 post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/commencement/regalia/
+permalink: http://www.umw.edu/commencement/regalia/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -47,7 +46,9 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 <a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.
 
 <u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.</div>
-<div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.  To determine eligibility, please review criteria here: <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/.  For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a>.</span><span style="color: #000000">
+<div></div>
+<div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
+<div><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.  To determine eligibility, please review criteria here: <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/.  For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a>.</span><span style="color: #000000">
 <strong>Activity                                           Cord Color</strong>
 Athletics (varsity)                             Gray
 Campus Rec Sport Clubs                 Red
@@ -56,8 +57,6 @@ Horizons program                            Royal Blue
 Leadership                                         Green</span>
 <span style="color: #000000">Multicultural Center                        Purple
 Student Activities clubs                   Orange
-Veterans                                             Red, White and Blue</span>
-
-&nbsp;
+Veterans                                             Red, White and Blue</span>&nbsp;
 
 </div>
