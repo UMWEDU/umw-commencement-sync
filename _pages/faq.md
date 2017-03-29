@@ -6,14 +6,14 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>When and where is the Undergraduate Commencement Ceremony?</h2>
+<h2>When and Where is the Undergraduate Commencement Ceremony?</h2>
 The Undergraduate Ceremony will take place Saturday, May 13, 2017, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
 <h3>What time should I arrive?</h3>
 Ball Circle will open for seating at 7:00 a.m. the day of Commencement. We ask that guests are seated prior to 9:00 a.m. processional down campus walk.
@@ -44,6 +44,6 @@ Since photographers will be available, family members and guests are encouraged 
 <h3>Will flowers be available for sale?</h3>
 Yes, a flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
-<a href="https://www.thecommencementgroup.com/marywashington"><span style="color: #0563c1;font-family: Calibri">https://www.thecommencementgroup.com/marywashington</span></a>
+<a href="https://www.thecommencementgroup.com/marywashington"><span style="color: #0563c1; font-family: Calibri;">https://www.thecommencementgroup.com/marywashington</span></a>
 
-<span style="color: #000000;font-family: Calibri"> </span>
+&nbsp;
