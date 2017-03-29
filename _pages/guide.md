@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -32,7 +32,7 @@ wpcf-home-page-grid-inclusion:
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-The UMW Bookstore will have a limited supply of regalia available after March 18th.
+The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span>
 
 <strong>Online Options</strong>
 
@@ -42,6 +42,9 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 <a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
 
 Announcement cards are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
+<div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
+<div><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.  </span></div>
+<div><span style="color: #333333;font-family: 'Helvetica',sans-serif">To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a></span></div>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
