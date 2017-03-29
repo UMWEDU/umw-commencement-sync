@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -41,7 +41,7 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 
 <a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
 
-Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
+Announcement cards are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
@@ -55,17 +55,17 @@ All undergraduate degree candidates are expected to attend the rehearsal<em><str
 <h3>Undergraduate Commencement, May 13, 2017</h3>
 <strong>Please arrive no later than 8:15 a.m in your regalia</strong>. Candidates for Undergraduate Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
 
-The procession will begin promptly at 9 a.m. The Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
+The procession will begin promptly at 9 a.m. Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington Hall Parking Lot is designated completely for handicapped parking. There will be golf carts transporting guests from this lot to Ball Circle.
 <h4>The Venue</h4>
-The venue for Undergraduate Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live from the University web page and also on a large screen at Ball Circle.
+The venue for Undergraduate Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
 
-The candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the Candidates for Undergraduate Commencement will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
+Candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the candidates for undergraduate commencement will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
 <h4>Seating Arrangements</h4>
 Graduates will be required to sit in reserved seats. A seating plan will be distributed prior to the ceremony at rehearsal. Guests are invited to find a seat on a first come, first serve basis.
 <h4>Academic Dress</h4>
-On the day of the ceremony graduates are expected to wear the appropriate regalia that you have ordered. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
+Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps me be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
 <h4>Flowers</h4>
