@@ -5,7 +5,7 @@ author: UMW
 post_date: 2014-08-15 18:35:34
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/commencement/
+permalink: http://www.umw.edu/commencement/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -14,7 +14,7 @@ yst_prominent_words_version:
 ---
 Graduate Commencement takes place on Friday, May 12, 2017 and Undergraduate Commencement takes place on Saturday, May 13, 2017. Commencement is a formal event celebrating students who are graduating. Most students take part in Commencement, but participation is not required in order to graduate.
 
-Everything you and your guests will need know for the weekend - <a title="Commencement Schedules" href="/commencement/schedule/">schedules</a>, <a title="campus maps and driving directions" href="/visitors/">campus map and driving directions</a> , parking, seating, disability services, event streaming and more can be found here. If you have specific questions please contact the following individuals:
+Everything you and your guests will need know for the weekend - <a title="Commencement Schedules" href="/commencement/schedule/">schedules</a>, <a title="campus maps and driving directions" href="/visitors/">campus map and driving directions</a>, parking, seating, disability services, event streaming and more can be found here. If you have specific questions please contact the following individuals:
 <ul>
  	<li><strong>Event Information</strong>
 <ul>
