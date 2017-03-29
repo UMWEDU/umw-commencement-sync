@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -16,7 +16,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Start with the Registrar's Office</h2>
-<span style="color: #000000;font-family: Calibri">Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/"><strong>Registrar’s Office</strong></a> website.</span>
+Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/">Registrar’s Office</a> website.
 <h2>Get what you need!</h2>
 <div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings and view our diploma frame selection or shop online!</div>
 <div></div>
@@ -43,8 +43,8 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 
 Announcement cards are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
-<div><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.  </span></div>
-<div><span style="color: #333333;font-family: 'Helvetica',sans-serif">To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a></span></div>
+<div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
+<div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
