@@ -6,7 +6,7 @@ post_date: 2015-01-09 20:32:33
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/
+  http://www.umw.edu/commencement/undergraduate/
 published: true
 yst_prominent_words_version:
   - "1"
