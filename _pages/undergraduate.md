@@ -6,7 +6,7 @@ post_date: 2015-01-09 20:32:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/
+  https://www.umw.edu/commencement/undergraduate/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -18,7 +18,7 @@ wpcf-homepage-copy:
     <ul>
     <li><a href="https://www.umw.edu/commencement/undergraduate/guide/">Step-by-step Guide</a></li>
     <li><a href="https://www.umw.edu/commencement/undergraduate/undergraduate-commencement/">Schedule</a></li>
-    <li>Picnic</li>
+    <li><a href="https://www.umw.edu/commencement/undergraduate-picnic/">Picnic</a></li>
     <li><a href="https://www.umw.edu/commencement/undergraduate/faq/">FAQ</a></li>
     <li><a href="https://www.youtube.com/watch?v=fktgnuUcBCg">Video of 2016 Ceremony</a> [YouTube]</li>
     </ul>
