@@ -6,7 +6,7 @@ post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/guide/
+  http://www.umw.edu/commencement/undergraduate/guide/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
@@ -45,6 +45,12 @@ Announcement cards are available for sale in the University Bookstore. Personali
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
+<h2>Getting your name right!</h2>
+This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
+
+<strong>College of Arts and Science</strong>: <a href="https://www.name-coach.com/record/1A019">https://www.name-coach.com/record/1A019</a>
+
+<strong>College of Business:</strong> <a href="https://www.name-coach.com/record/8B018">https://www.name-coach.com/record/8B018</a>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
