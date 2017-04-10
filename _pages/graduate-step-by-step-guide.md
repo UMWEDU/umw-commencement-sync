@@ -6,7 +6,7 @@ post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
+  http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -38,6 +38,16 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 
 </div>
 <strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
+
+&nbsp;
+<h2>Getting your name right!</h2>
+This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
+
+<strong>College of Arts and Science</strong>: <a href="https://www.name-coach.com/record/1A019">https://www.name-coach.com/record/1A019</a>
+
+<strong>College of Business:</strong> <a href="https://www.name-coach.com/record/8B018">https://www.name-coach.com/record/8B018</a>
+
+&nbsp;
 <h2>“Day of” Instructions</h2>
 Please arrive no later than <strong>6:45 p.m</strong>.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
 <h3>Parking</h3>
