@@ -6,7 +6,7 @@ post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
+  http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -49,7 +49,7 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 
 &nbsp;
 <h2>“Day of” Instructions</h2>
-Please arrive no later than <strong>6:45 p.m</strong>.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
+Please arrive no later than <strong>6:45 p.m</strong>.  Graduates will line up to the right of the bell tower  (in front of Bushnell), and process under the Bell Tower to the front door of GW.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
 <h3>Parking</h3>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking.
 <h3>Academic Dress</h3>
