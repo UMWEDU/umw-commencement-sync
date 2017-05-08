@@ -6,15 +6,15 @@ post_date: 2015-02-12 20:35:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate/faq/
+  http://www.umw.edu/commencement/undergraduate/faq/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>When and Where is the Undergraduate Commencement Ceremony?</h2>
 The Undergraduate Ceremony will take place Saturday, May 13, 2017, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
+<h3>What if it rains?</h3>
+The Ceremony will be held at Ball Circle, rain or shine.
 <h3>What time should I arrive?</h3>
 Ball Circle will open for seating at 7:00 a.m. the day of Commencement. We ask that guests are seated prior to 9:00 a.m. processional down campus walk.
 <h3>How long is the commencement ceremony?</h3>
