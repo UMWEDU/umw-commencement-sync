@@ -2,18 +2,12 @@
 ID: 206
 post_title: Step-By-Step Guide
 author: UMW
-post_date: 2015-01-09 19:33:47
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/commencement/undergraduate/guide/
 published: true
-wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152878;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057163029;s:3:"url";s:52:"http://www.umw.edu/commencement/undergraduate/guide/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057163029";}s:4:"time";i:1458152844;}}'
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-01-09 19:33:47
 ---
 <h2>Start with the Registrar's Office</h2>
 Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/">Registrar’s Office</a> website.
@@ -54,7 +48,7 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 <strong>College of Business:</strong> <a href="https://www.name-coach.com/record/8B018">https://www.name-coach.com/record/8B018</a>
 <h2>Celebrate!</h2>
 </div>
-<h3>Graduation Ball, The Anderson Center                                                                                                                     Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
+<h3>Graduation Ball, The Anderson Center                                                                                                                       Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
 Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine &amp; beer bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a date. Grad Ball tickets will be available for pickup from April 28th until May 10th in the Office of Student Activities and Engagement, University Center in room 303. There will be a will call option for December graduates via email. Just send an email requesting tickets to <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a>.
 
 The tickets are the only means of entrance for the event and are used to receive a Grad Ball glass at the end of the evening. All attendees 21 + years of age will receive a wristband at the check-in table. The event is for seniors and graduate students who graduated in Fall 2016 or are graduating in Spring 2017. If you have any questions, please contact Student Activities at (540) 654-1061 or sae@umw.edu.
