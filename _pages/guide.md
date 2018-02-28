@@ -49,13 +49,16 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
-<h3>Thursday, May 11, 2017  ~  9:00 p.m.  to 1:00 a.m.</h3>
+<h3>Thursday, May 10, 2018  ~  9:00 p.m.  to 1:00 a.m.</h3>
+This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.  Additional information will be posted when available
+
 &nbsp;
 <h2>Practice Makes Perfect</h2>
-<h3>Undergraduate Commencement Rehearsal, Dodd Auditorium, George Washington Hall                                                       Friday, May 12, 2017   ~  1:00 p.m.  to  3:15 p.m.</h3>
+<h3>Undergraduate Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
+<h3>Friday, May 11, 2018   ~  1:00 p.m.  to  3:15 p.m.</h3>
 All undergraduate degree candidates are expected to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
 <h2>It's Your Day!</h2>
-<h3>Undergraduate Commencement, May 13, 2017</h3>
+<h3>Undergraduate Commencement, May 12, 2018</h3>
 <strong>Please arrive no later than 8:15 a.m in your regalia</strong>. Candidates for Undergraduate Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
 
 The procession will begin promptly at 9 a.m. Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
@@ -75,9 +78,9 @@ A professional photographer will take pictures of each graduate upon exiting the
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
 <a href="https://www.thecommencementgroup.com/marywashington">https://www.thecommencementgroup.com/marywashington</a>
-<h4>Post-ceremony Picnic, Palmieri Plaza                                                                                                                                                                                                    12:00 p.m. to 2:00 p.m.</h4>
-Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Picnic on Palmieri Plaza. Tickets are required and can be <strong>purchased online beginning March 15, 2017</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
+<h4>Post-ceremony Commencement Luncheon                                                                                                                                                                                                 12:00 p.m. to 2:00 p.m.</h4>
+Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <strong>purchased online beginning March 1, 2018</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
-Ticket prices for adults are $11.50 and  $5.50 for children and may be picked up in the Office of Events and Conferencing, George Washington Hall, Rm 111, M-F, 8 a.m. – 5 p.m. until May 11, 2017. Alternatively, guests may request that tickets be mailed directly to the address entered during purchase.
-<h2>Severe Weather Plan</h2>
+Ticket prices for adults are $12.95 and  $6.00 for children (11 years of age or younger) and may be ordered online.
+
 The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the University will implement the severe weather plan and communicate it on our website.
