@@ -2,25 +2,12 @@
 ID: 225
 post_title: Graduate Commencement
 author: UMW
-post_date: 2015-01-12 21:38:25
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/commencement/graduate-commencement/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    Friday, May 12, 2017 at 7:30 p.m. in GW Hall, <a title="Google Maps directions to UMW's Dodd Auditorium" href="https://www.google.com/maps/place/Dodd+Auditorium,+Fredericksburg,+VA+22401/data=!4m2!3m1!1s0x89b6c1f6e91c1fcb:0xd30436a5b77ca7e5?sa=X&amp;ved=0ahUKEwjQiNTJyPXLAhWBNT4KHf6iCuQQ8gEIGzAA">Dodd Auditorium</a>
-    <ul>
-    <li><a href="https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/">Step-by-step guide</a></li>
-    <li><a href="https://www.umw.edu/commencement/graduate-commencement/graduate-schedule/">Schedule</a></li>
-    <li><a href="https://www.umw.edu/commencement/graduate-commencement/gradfaq/">FAQ</a></li>
-    <li><a href="https://www.youtube.com/watch?v=kdOoPFnnRbQ">Video of 2016 Ceremony</a> [YouTube]</li>
-    </ul>
-yst_prominent_words_version:
-  - "1"
+post_date: 2015-01-12 21:38:25
 ---
 Commencement for our Graduate Students takes place in George Washington Hall, Dodd Auditorium. There are a variety of events that will take place to assist you in preparing for the  big day.
 <h2>Preparing for Commencement</h2>
