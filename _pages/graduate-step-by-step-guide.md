@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2015-08-01 03:45:39
 ---
+&nbsp;
+
+&nbsp;
 <h2>First Step</h2>
 The year prior to the anticipated graduation date all graduate students must submit a degree application to the Office of the Registrar one year prior to the anticipated graduation date. While all other degree requirements may have been met, no student is allowed to graduate unless the application has been filed appropriately. Degree applications are available in the Office of the Registrar and in the Office of Advising Services. You can find more information at Graduation Information Registrar.
 <h2>Next Steps</h2>
@@ -19,6 +22,8 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
  	<li>Personalized Graduation Announcement Ordering</li>
  	<li>Class Ring Sizing and Ordering</li>
  	<li>Diploma Frame Selection</li>
+ 	<li>Commencement Photography</li>
+ 	<li>NameCoach, pronouncing your name correctly at Graduation</li>
 </ul>
 <div><strong>Location:</strong>University Bookstore, Lee Hall</div>
 <div>
