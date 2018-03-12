@@ -10,10 +10,8 @@ published: true
 post_date: 2017-03-17 08:46:14
 ---
 <h2 style="text-align: center"><span style="font-size: xx-large"><strong>Commencement Tickets &amp; Menu</strong> </span></h2>
-<strong>Saturday, May 12, 2018</strong>
-
-<strong>12 p.m. – 2 p.m.</strong>
-
+<h3><strong>Saturday, May 12, 2018</strong></h3>
+<h3><strong>12 p.m. – 2 p.m.</strong></h3>
 <strong>University Center,  Chandler Ballroom.</strong>
 
 <span style="font-size: medium">All Guests, including graduates, must have a ticket in order to dine at the Commencement Luncheon. The ticket purchasing procedures and menu for the Commencement Luncheon are listed below. </span>
@@ -41,11 +39,7 @@ On-Site Tickets:
 <span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 12</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
 
 <em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em><a href="http://Leslie.Jacobs@Sodexo.com.">Leslie.Jacobs@Sodexo.com.</a>
-
-&nbsp;
-
-&nbsp;
-<h2 style="text-align: center"><strong> Buffet Luncheon Menu</strong></h2>
+<h2 style="text-align: center"><strong> Buffet Luncheon </strong></h2>
 &nbsp;
 <p style="text-align: center"><strong>Chef Rigoberto’s Fried Chicken</strong>   <em>(Contains wheat &amp; gluten)</em></p>
 <p style="text-align: center"><strong>Cheesy Mac and Cheese</strong><em> (Contains milk, wheat &amp; gluten. Vegetarian)</em></p>
