@@ -42,10 +42,12 @@ On-Site Tickets:
 <h2 style="text-align: center"><strong> Buffet Luncheon </strong></h2>
 <p style="text-align: center"><strong>Chef Rigoberto’s Fried Chicken</strong>   <em>(Contains wheat &amp; gluten)</em></p>
 <p style="text-align: center"><strong>Cheesy Mac and Cheese</strong><em> (Contains milk, wheat &amp; gluten. Vegetarian)</em></p>
-<p style="text-align: center"><strong>Farfalle Salad</strong> w<span style="font-size: medium">ith </span><span style="font-size: small">Cucumbers, Tomatoes, Onions &amp; Herbs </span>Tossed with a Citrus Vinaigrette Dressing (Contains wheat &amp; gluten. Vegan)</p>
+<p style="text-align: center"><strong>Farfalle Salad</strong> w<span style="font-size: medium">ith </span><span style="font-size: small">Cucumbers, Tomatoes, Onions &amp; Herbs t</span>ossed with a Citrus Vinaigrette Dressing</p>
+<p style="text-align: center"><em>(Contains wheat &amp; gluten. Vegan)</em></p>
 <p style="text-align: center"><strong>Apple Cranberry and Almond Coleslaw </strong><em>(Gluten-Free. Contains eggs &amp; nuts. Vegetarian)</em></p>
 <p style="text-align: center"><strong>Zucchini, Squash, Bean &amp; Quinoa Casserole </strong><em>(Gluten-Free, Dairy-Free &amp; Vegan)</em></p>
-<p style="text-align: center"><strong>Watermelon and Berry Salad w</strong>ith a Basil, Honey &amp; Citrus Dressing <em>(Gluten-Free, Dairy-Free &amp; Vegetarian)</em></p>
+<p style="text-align: center"><strong>Watermelon and Berry Salad </strong>with a Basil, Honey &amp; Citrus Dressing</p>
+<p style="text-align: center"><em>(Gluten-Free, Dairy-Free &amp; Vegetarian)</em></p>
 <p style="text-align: center"><strong>Mini Biscuits</strong> <em>(Contains eggs, wheat, soy &amp; gluten. Vegetarian)</em></p>
 <p style="text-align: center"><strong>UMW Cookies and Cupcakes</strong> <em>(Contain wheat, milk, eggs, soy &amp; gluten. Vegetarian)</em></p>
 <p style="text-align: center"><strong>Gluten-Free Cupcakes </strong><em>(Contain milk, eggs &amp; soy. Vegetarian)</em></p>
