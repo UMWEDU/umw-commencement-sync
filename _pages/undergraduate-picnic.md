@@ -1,6 +1,6 @@
 ---
 ID: 414
-post_title: Commencement Luncheon Menu
+post_title: Commencement Luncheon
 author: Shelley Keith
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-03-17 08:46:14
 ---
-<h2 style="text-align: center"><span style="font-size: xx-large"><strong>Commencement Luncheon</strong> </span></h2>
+<h2 style="text-align: center"><span style="font-size: xx-large"><strong>Commencement Tickets &amp; Menu</strong> </span></h2>
 <strong>Saturday, May 12, 2018</strong>
 
 <strong>12 p.m. – 2 p.m.</strong>
