@@ -46,9 +46,9 @@ A variety of UMW eco- friendly frames are available with a 10% savings  during 
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
-<strong>College of Arts and Science</strong>: <a href="https://www.name-coach.com/record/1A019">https://www.name-coach.com/record/1A019</a>
+<strong>College of Arts and Science</strong>: <a href="https://www.name-coach.com/record/FC36AF">https://www.name-coach.com/record/FC36AF</a>
 
-<strong>College of Business:</strong> <a href="https://www.name-coach.com/record/8B018">https://www.name-coach.com/record/8B018</a>
+<strong>College of Business:</strong> <a href="https://www.name-coach.com/record/99BBC0">https://www.name-coach.com/record/99BBC0</a>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
