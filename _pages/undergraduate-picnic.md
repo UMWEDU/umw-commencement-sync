@@ -2,46 +2,59 @@
 ID: 414
 post_title: Undergraduate Picnic Menu
 author: Shelley Keith
-post_date: 2017-03-17 08:46:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/undergraduate-picnic/
+  http://www.umw.edu/commencement/undergraduate-picnic/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-03-17 08:46:14
 ---
-<h2 style="text-align: center">Saturday, May 13th</h2>
-<p style="text-align: center"><strong>12:00 p.m. – 2:00 p.m., Commencement Picnic, Palmieri Plaza (in front of Monroe Hall)</strong></p>
-<p style="text-align: center">Celebrate commencement with family and friends at the Commencement Picnic Lunch held in Palmieri Plaza on the Fredericksburg Campus.</p>
-<p style="text-align: center"><a href="http://alumni.umw.edu/commencementpicnic"><strong>Tickets are now available </strong></a></p>
-<p style="text-align: center">Advanced purchase tickets will be available until Thursday May 11th. Purchased tickets may be picked up in person or if requested, mailed up until May 5th.  Tickets can be picked up at the Office of Events in George Washington Hall, Room 111, Monday - Friday, 8:00am - 5:00pm.  A limited number of tickets may be available for sale on the date of the event.</p>
-<p style="text-align: center"> <a href="https://www.google.com/maps/place/The+Fountain+Of+Greatness/@38.3035824,-77.4752158,3a,75y,90t/data=!3m8!1e2!3m6!1s-mo8mWQMNv3o%2FV6IyTuY5iRI%2FAAAAAAAAJng%2FWfKE-vMWHgg5Pi5SPiHB478VtgbD8fMGACLIB!2e4!3e12!6s%2F%2Flh6.googleusercontent.com%2F-mo8mWQMNv3o%2FV6IyTuY5iRI%2FAAAAAAAAJng%2FWfKE-vMWHgg5Pi5SPiHB478VtgbD8fMGACLIB%2Fs114-k-no%2F!7i3264!8i2448!4m5!3m4!1s0x0:0x70b39f8a2e9df0bf!8m2!3d38.3035824!4d-77.4752158!6m1!1e1">[image</a> | <a href="https://goo.gl/maps/lWYhP">map</a>]</p>
-<p style="text-align: center"><em>In case of rain, the picnic lunch will be held in the </em><em>University Center, Chandler Ballroom.</em></p>
-<p style="text-align: center"><strong>MENU</strong></p>
-<p style="text-align: center"><strong>Buttermilk Fried Chicken</strong></p>
-<p style="text-align: center"><strong>Roasted Vegetable Kabob</strong>
-Yellow Squash, Zucchini, Red Onion, Red Peppers, and Mushrooms
-<strong>
-Southern Ham Biscuits</strong>
-Virginia Ham with Cheddar Cheese on a Southern Style Buttermilk Biscuit, finished with Poppy Seed Dijon
-<strong>
-Potato Salad</strong>
-Traditional Cubed Russet Potatoes combined with Mayonnaise, Mustard and Vinegar
-<strong>
-</strong><strong> Roasted Corn and Black Bean Salad</strong>
-Tossed with Bell Peppers, Red Onion, Cumin and Lime Vinaigrette<strong>
-</strong></p>
-<p style="text-align: center"><strong>Potato Chips</strong></p>
-<p style="text-align: center"><strong>Assorted Petite Rolls and Butter
-</strong></p>
-<p style="text-align: center"><strong>Desert </strong></p>
-<p style="text-align: center">Fresh Sliced Watermelon
-Cookies
-Assorted Frosted Cupcakes<strong>
-</strong></p>
-<p style="text-align: center"><strong>Beverage Station</strong></p>
-<p style="text-align: center">Lemonade, Sweet and Unsweetened Iced Tea, Iced Water</p>
-<p style="text-align: center">In event of rain, the picnic will be moved to the University Center, Chandler Ballroom. For questions regarding the menu please contact the catering office at 540-654-1930.</p>
+<h2 style="text-align: center"><span style="font-size: xx-large"><strong>Commencement Luncheon</strong> </span></h2>
+<strong>Saturday, May 12, 2018</strong>
+
+<strong>12 p.m. – 2 p.m.</strong>
+
+<strong>University Center,  Chandler Ballroom.</strong>
+
+<span style="font-size: medium">All Guests, including graduates, must have a ticket in order to dine at the Commencement Luncheon. The ticket purchasing procedures and menu for the Commencement Luncheon are listed below. </span>
+
+<strong>Advanced Ticket Purchase</strong>
+
+Advanced Online Tickets:
+<ul>
+ 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$12.95 </span></b><span style="font-size: medium">(includes tax) </span></li>
+ 	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$6.00 </span></b><span style="font-size: medium">(includes tax) </span></li>
+</ul>
+<span style="font-size: medium">Tickets purchased online by May 4</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be mailed to your home address.  </span>Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
+
+<span style="font-size: medium">Tickets purchased online May 5</span><span style="font-size: xx-small">th </span><span style="font-size: medium">-9</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be available for pick-up on May 12</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the </span>
+
+Dining Will Call table between 8 a.m. and 1 p.m. located at the Ball Circle entrance to the University Center. Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
+
+<strong>Limited On-Site Ticket Purchase</strong>
+
+On-Site Tickets:
+<ul>
+ 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$13.95 </span></b><span style="font-size: medium">(includes tax) </span></li>
+ 	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$7.00 </span></b><span style="font-size: medium">(includes tax) </span></li>
+</ul>
+<span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 12</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
+
+<em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em><a href="http://Leslie.Jacobs@Sodexo.com.">Leslie.Jacobs@Sodexo.com.</a>
+
+&nbsp;
+
+&nbsp;
+<h2 style="text-align: center"><strong> Buffet Luncheon Menu</strong></h2>
+&nbsp;
+<p style="text-align: center"><strong>Chef Rigoberto’s Fried Chicken</strong>   <em>(Contains wheat &amp; gluten)</em></p>
+<p style="text-align: center"><strong>Cheesy Mac and Cheese</strong><em> (Contains milk, wheat &amp; gluten. Vegetarian)</em></p>
+<p style="text-align: center"><strong>Farfalle Salad</strong> w<span style="font-size: medium">ith </span><span style="font-size: small">Cucumbers, Tomatoes, Onions &amp; Herbs </span>Tossed with a Citrus Vinaigrette Dressing (Contains wheat &amp; gluten. Vegan)</p>
+<p style="text-align: center"><strong>Apple Cranberry and Almond Coleslaw </strong><em>(Gluten-Free. Contains eggs &amp; nuts. Vegetarian)</em></p>
+<p style="text-align: center"><strong>Zucchini, Squash, Bean &amp; Quinoa Casserole </strong><em>(Gluten-Free, Dairy-Free &amp; Vegan)</em></p>
+<p style="text-align: center"><strong>Watermelon and Berry Salad w</strong>ith a Basil, Honey &amp; Citrus Dressing <em>(Gluten-Free, Dairy-Free &amp; Vegetarian)</em></p>
+<p style="text-align: center"><strong>Mini Biscuits</strong> <em>(Contains eggs, wheat, soy &amp; gluten. Vegetarian)</em></p>
+<p style="text-align: center"><strong>UMW Cookies and Cupcakes</strong> <em>(Contain wheat, milk, eggs, soy &amp; gluten. Vegetarian)</em></p>
+<p style="text-align: center"><strong>Gluten-Free Cupcakes </strong><em>(Contain milk, eggs &amp; soy. Vegetarian)</em></p>
+<p style="text-align: center"><strong>Sweet and Unsweet Tea, Lemonade, Water</strong></p>
+&nbsp;
