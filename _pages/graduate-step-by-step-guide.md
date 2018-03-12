@@ -2,16 +2,12 @@
 ID: 397
 post_title: Graduate Step-by-Step Guide
 author: UMW
-post_date: 2015-08-01 03:45:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
+  http://www.umw.edu/commencement/graduate-commencement/graduate-step-by-step-guide/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-08-01 03:45:39
 ---
 <h2>First Step</h2>
 The year prior to the anticipated graduation date all graduate students must submit a degree application to the Office of the Registrar one year prior to the anticipated graduation date. While all other degree requirements may have been met, no student is allowed to graduate unless the application has been filed appropriately. Degree applications are available in the Office of the Registrar and in the Office of Advising Services. You can find more information at Graduation Information Registrar.
@@ -29,15 +25,15 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 
 <strong>Dates:  </strong>
 <ul>
- 	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
- 	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
+ 	<li>Thursday, March 15 10 a.m. - 7 p.m.</li>
+ 	<li>Friday, March 16 10 a.m. - 4 p.m.<strong>
 </strong></li>
- 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
+ 	<li>Saturday, March 17 10 a.m. - 4 p.m.</li>
 </ul>
-<strong>**You may order regalia online until April 21, 2017.</strong>
+<strong>**You may order regalia online until April 20, 2017.</strong>
 
 </div>
-<strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><a href="http://www.oakhalli.com/UMW"><strong><em>order regalia online</em></strong></a><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
+<strong><em>If you are unable to attend one of the Grad Fairs, you may still </em></strong><strong><em>order regalia online</em></strong><strong><em>. A home shipping fee and sales tax will be added to each order. In addition, the UMW Bookstore will have a limited supply of regalia available.</em></strong>
 
 &nbsp;
 <h2>Getting your name right!</h2>
