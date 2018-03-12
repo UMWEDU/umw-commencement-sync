@@ -1,6 +1,6 @@
 ---
 ID: 414
-post_title: Undergraduate Picnic Menu
+post_title: Commencement Luncheon Menu
 author: Shelley Keith
 post_excerpt: ""
 layout: page
