@@ -31,7 +31,7 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 </ul>
 For those unable to attend the Grad Fair, regalia may be <a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">purchased online</a> March 19<sup>th</sup> through April 20<sup>th</sup>.  A $15.95 home shipping fee and sales tax will be added to each order.
 
-In addition, the UMW Bookstore will have a limited supply of regalia available after March 19<sup>th</sup>.
+In addition, the UMW Bookstore will have a limited supply of regalia available after March 18<sup>th</sup>.
 
 <em>Please note</em>:
 
@@ -44,9 +44,9 @@ A holding cost fee of $10 will be added to any regalia ensemble purchased in the
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
-<strong>College of Arts and Science</strong>: <a href="https://www.name-coach.com/record/1A019">https://www.name-coach.com/record/1A019</a>
+&nbsp;
 
-<strong>College of Business:</strong> <a href="https://www.name-coach.com/record/8B018">https://www.name-coach.com/record/8B018</a>
+<strong>UMW Masters: </strong>https://www.name-coach.com/record/BE9707
 
 &nbsp;
 <h2>“Day of” Instructions</h2>
