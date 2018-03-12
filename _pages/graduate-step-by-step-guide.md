@@ -25,11 +25,19 @@ Visit the bookstore during Grad Fair to order your regalia. Representatives will
 
 <strong>Dates:  </strong>
 <ul>
- 	<li>Thursday, March 15 10 a.m. - 7 p.m.</li>
- 	<li>Friday, March 16 10 a.m. - 4 p.m.<strong>
+ 	<li>Thursday, March 15th from 10 a.m. - 7 p.m.</li>
+ 	<li>Friday, March 16th from 10 a.m. - 4 p.m.<strong>
 </strong></li>
- 	<li>Saturday, March 17 10 a.m. - 4 p.m.</li>
+ 	<li>Saturday, March 17from  10 a.m. - 4 p.m.</li>
 </ul>
+For those unable to attend the Grad Fair, regalia may be <a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">purchased online</a> March 19<sup>th</sup> through April 20<sup>th</sup>.  A $15.95 home shipping fee and sales tax will be added to each order.
+
+In addition, the UMW Bookstore will have a limited supply of regalia available after March 19<sup>th</sup>.
+
+<em>Please note</em>:
+
+A holding cost fee of $10 will be added to any regalia ensemble purchased in the UMW Bookstore beginning March 26<sup>th</sup>.
+
 <strong>**You may order regalia online until April 20, 2017.</strong>
 
 </div>
