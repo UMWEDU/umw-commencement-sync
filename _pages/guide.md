@@ -19,31 +19,30 @@ Each spring, eligible students will receive an email announcement from the Regi
 
 <strong>Grad Fair Dates:  </strong>
 <ul>
- 	<li>Thursday, March 15     10 a.m. - 7 p.m.</li>
- 	<li>Friday, March 16      10 a.m. - 4 p.m.<strong>
+ 	<li><strong>Thursday, March 15th from 10 a.m. - 7 p.m.</strong></li>
+ 	<li><strong>Friday, March 16th from 10 a.m. - 4 p.m.
 </strong></li>
- 	<li>Saturday, March 17      10 a.m. - 4 p.m.</li>
+ 	<li><strong>Saturday, March 17th from 10 a.m. - 4 p.m.</strong></li>
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-For those unable to attend the Grad Fair, regalia may be purchased online March 19<sup>th</sup> through April 20<sup>th</sup>.  A $15.95 home shipping fee and sales tax will be added to each order.
-
-In addition, the UMW Bookstore will have a limited supply of regalia available after March 19<sup>th</sup>.
-
-Please note:  A holding cost fee of $10 will be added to any regalia ensemble purchased in the UMW Bookstore beginning March 26<sup>th</sup>.
+<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
 
 <strong>Online Options</strong>
 
 </div>
 <div>
 
-<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 19th through April 20th.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 26th.
+<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 19th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
 
-Announcement cards are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
+<strong>Announcement cards</strong>
+
+Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
-<h2></h2>
+<h4> Diploma Frame Selection</h4>
+A variety of UMW eco- friendly frames are available with a 10% savings  during Grad Fair.
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
@@ -75,14 +74,14 @@ Candidates are to line up around Jefferson Square where ushers will be available
 <h4>Seating Arrangements</h4>
 Graduates will be required to sit in reserved seats. A seating plan will be distributed prior to the ceremony at rehearsal. Guests are invited to find a seat on a first come, first serve basis.
 <h4>Academic Dress</h4>
-Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps me be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for any events following the ceremony.
+Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps me be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for the weather.
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
 <h4>Flowers</h4>
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
 <a href="https://www.thecommencementgroup.com/marywashington">https://www.thecommencementgroup.com/marywashington</a>
-<h4>Post-ceremony Commencement Luncheon                                                                                                                                                                                                 12:00 p.m. to 2:00 p.m.</h4>
+<h4>Post-ceremony Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
 Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <strong>purchased online beginning March 1, 2018</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
 Ticket prices for adults are $12.95 and  $6.00 for children (11 years of age or younger) and may be ordered online.
