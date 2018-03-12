@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2017-03-17 08:46:14
 ---
-<h2 style="text-align: center"><span style="font-size: xx-large"><strong>Commencement Tickets &amp; Menu</strong> </span></h2>
-<h3><strong>Saturday, May 12, 2018</strong></h3>
+<h2 style="text-align: left"><span style="font-size: xx-large"><strong>Commencement Tickets &amp; Menu</strong> </span></h2>
+<h3 style="text-align: left"><strong>Saturday, May 12, 2018</strong></h3>
 <h3><strong>12 p.m. – 2 p.m.</strong></h3>
 <strong>University Center,  Chandler Ballroom.</strong>
 
@@ -40,7 +40,6 @@ On-Site Tickets:
 
 <em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em><a href="http://Leslie.Jacobs@Sodexo.com.">Leslie.Jacobs@Sodexo.com.</a>
 <h2 style="text-align: center"><strong> Buffet Luncheon </strong></h2>
-&nbsp;
 <p style="text-align: center"><strong>Chef Rigoberto’s Fried Chicken</strong>   <em>(Contains wheat &amp; gluten)</em></p>
 <p style="text-align: center"><strong>Cheesy Mac and Cheese</strong><em> (Contains milk, wheat &amp; gluten. Vegetarian)</em></p>
 <p style="text-align: center"><strong>Farfalle Salad</strong> w<span style="font-size: medium">ith </span><span style="font-size: small">Cucumbers, Tomatoes, Onions &amp; Herbs </span>Tossed with a Citrus Vinaigrette Dressing (Contains wheat &amp; gluten. Vegan)</p>
