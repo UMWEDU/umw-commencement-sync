@@ -39,7 +39,7 @@ The UMW Bookstore will have a limited supply of regalia available after March 18
 </div>
 <div>
 
-<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 20th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.
+<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 19th through April 21st.  A $15.95 home shipping fee and sales tax will be added to each order.
 
 <u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
 
