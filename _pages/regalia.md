@@ -32,7 +32,7 @@ post_date: 2015-01-13 14:16:47
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble which includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-The UMW Bookstore will have a limited supply of regalia available after March 18th.
+The UMW Bookstore will have a limited supply of regalia available after March 19th.
 
 <strong>Online Options</strong>
 
