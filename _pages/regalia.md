@@ -2,16 +2,11 @@
 ID: 219
 post_title: Regalia
 author: UMW
-post_date: 2015-01-13 14:16:47
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.umw.edu/commencement/regalia/
+permalink: http://www.umw.edu/commencement/regalia/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-01-13 14:16:47
 ---
 <h2>For Undergraduates and Graduates</h2>
 <div>Visit the bookstore during Grad Fair to order your regalia.</div>
@@ -30,10 +25,10 @@ wpcf-home-page-grid-inclusion:
 
 <strong>Grad Fair Dates:  </strong>
 <ul>
- 	<li>Thursday, March 16 10 a.m. - 7 p.m.</li>
- 	<li>Friday, March 17 10 a.m. - 4 p.m.<strong>
+ 	<li>Thursday, March 15 from 10 a.m. - 7 p.m.</li>
+ 	<li>Friday, March 16 from  10 a.m. - 4 p.m.<strong>
 </strong></li>
- 	<li>Saturday, March 18 10 a.m. - 4 p.m.</li>
+ 	<li>Saturday, March 17 from 10 a.m. - 4 p.m.</li>
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble which includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
