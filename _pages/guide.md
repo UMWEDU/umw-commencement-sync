@@ -80,7 +80,7 @@ A professional photographer will take pictures of each graduate upon exiting the
 <h4>Flowers</h4>
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
-<a href="https://www.thecommencementgroup.com/marywashington">https://www.thecommencementgroup.com/marywashington</a>
+<a href="https://www.thecommencementgroup.com/marywashington/">https://www.thecommencementgroup.com/marywashington/</a>
 <h4>Post-ceremony Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
 Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <strong>purchased online beginning March 1, 2018</strong>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
