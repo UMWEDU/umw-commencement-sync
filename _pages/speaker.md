@@ -25,6 +25,14 @@ Haider and Davis, both business administration majors who graduated from UMW in 
 &nbsp;
 
 </header>
+
+[caption id="attachment_552" align="alignright" width="186"]<img class="wp-image-552 " src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2018/05/M-Catlett-6-243x300.jpg" alt="" width="186" height="230" /> Marceline R. Cattlett[/caption]
+<h3>Deputy Superintendent for Fredericksburg City Public Schools Dr. Marceline “Marcie” Catlett will speak at the graduate ceremony Friday, May 11 at 7:30 p.m. in Dodd Auditorium, George Washington Hall on the Fredericksburg Campus.</h3>
+Catlett, who holds an Ed.D. in educational leadership and policy studies from Virginia Tech, has worked in the Fredericksburg school system for 36 years, serving in roles such as administrative assistant, director of instruction, and assistant superintendent for instruction and personnel. She also has served as an adjunct professor at UMW and Shenandoah University.
+
+She is active in the Fredericksburg community, having volunteered with myriad agencies such as the Fredericksburg Area Youth Development Foundation Sunshine Ballpark, the Fredericksburg region’s Boys &amp; Girls Club, Fredericksburg Festival of the Arts, Fredericksburg Food Bank and the University of Mary Washington’s James Farmer Scholars program.
+
+Among the many honors Catlett has received are the 2018 Hugh Mercer Elementary School African American Community Award, the Women Education Leaders in Virginia 2017’s Spirit Award, the 2017 Patricia Lacey Metzger Distinguished Achievement Award, the 2015 Women in Worship Ministries Excellence Award and a Fredericksburg Regional Boys &amp; Girls Club Outstanding Service Award.
 <div class="entry-content">
 
 <!--more-->
