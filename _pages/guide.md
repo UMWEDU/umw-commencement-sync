@@ -55,7 +55,7 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 <h3>Thursday, May 10, 2018  ~  9:00 p.m.  to 12:00 a.m.</h3>
 This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.
 
-Tickets will be available to pick up between 8 a.m. to 5 p.mm starting Monday, April 30 through Thursday, May 10 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
+Tickets will be available to pick up between 8 a.m. to 5 p.m. starting Monday, April 30 through Thursday, May 10 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
 
 &nbsp;
 <h2>Practice Makes Perfect</h2>
