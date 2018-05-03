@@ -4,7 +4,8 @@ post_title: Commencement Luncheon
 author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: 'http://www.umw.edu/commencement/https-content-service-sodexomyway-com-media-2018%20commencement%20menu%20and%20information%20pub_tcm165-23958-pdfurlhttps-umw-sodexomyway-com/'
+permalink: >
+  http://www.umw.edu/commencement/commencement-luncheon/
 published: true
 post_date: 2017-03-17 08:46:14
 ---
