@@ -26,7 +26,7 @@ Each spring, eligible students will receive an email announcement from the Regi
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
+<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333; font-family: 'Helvetica',sans-serif;">.</span></em></strong>
 
 <strong>Online Options</strong>
 
@@ -37,7 +37,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensembl
 
 <strong>Announcement cards</strong>
 
-Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
+Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121; font-family: 'Times New Roman',serif;"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
@@ -52,8 +52,10 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
-<h3>Thursday, May 10, 2018  ~  9:00 p.m.  to 1:00 a.m.</h3>
-This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.  Additional information will be posted when available
+<h3>Thursday, May 10, 2018  ~  9:00 p.m.  to 12:00 a.m.</h3>
+This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.
+
+Tickets will be available to pick up between 8 a.m. to 5 p.mm starting Monday, April 30 through Thursday, May 10 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
 
 &nbsp;
 <h2>Practice Makes Perfect</h2>
