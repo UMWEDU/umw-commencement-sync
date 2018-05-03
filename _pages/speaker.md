@@ -10,7 +10,7 @@ published: true
 post_date: 2016-09-14 20:45:27
 ---
 <header class="entry-header">
-<h1 class="entry-title">will be announced by April 1, 2018.</h1>
+<h1 class="entry-title"></h1>
 </header>
 <div class="entry-content">
 
