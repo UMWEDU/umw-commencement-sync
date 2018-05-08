@@ -10,7 +10,7 @@ published: true
 post_date: 2015-08-01 02:55:18
 ---
 <h2>Thursday, May 10th</h2>
-<strong>9 p.m. – 1 a.m.: </strong>Graduation Ball, The Anderson Center
+<strong>9 p.m. – 12 a.m.: </strong>Graduation Ball, The Anderson Center
 
 This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.  Additional information will be posted when available.
 <h2>Friday, May 11th</h2>
