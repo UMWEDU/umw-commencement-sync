@@ -26,7 +26,7 @@ Each spring, eligible students will receive an email announcement from the Regi
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
-<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333; font-family: 'Helvetica',sans-serif;">.</span></em></strong>
+<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
 
 <strong>Online Options</strong>
 
@@ -37,7 +37,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensembl
 
 <strong>Announcement cards</strong>
 
-Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121; font-family: 'Times New Roman',serif;"> 1-800-433-0296.</span>
+Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
@@ -83,7 +83,7 @@ A professional photographer will take pictures of each graduate upon exiting the
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
 <a href="https://www.thecommencementgroup.com/marywashington/">https://www.thecommencementgroup.com/marywashington/</a>
-<h4>Post-ceremony Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
+<h4>Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
 Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <a href="https://content-service.sodexomyway.com/media/2018%20Commencement%20menu%20and%20information%20pub_tcm165-23958.pdf?url=https://umw.sodexomyway.com/"><strong>purchased online </strong></a>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
 Ticket prices for adults are $12.95 and  $6.00 for children (11 years of age or younger) and may be ordered online.
