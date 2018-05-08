@@ -10,7 +10,7 @@ published: true
 post_date: 2015-08-01 03:03:10
 ---
 <h2>Thursday, May 10th</h2>
-<strong>9 p.m. – 1 a.m.: </strong>Graduation Ball, The Anderson Center
+<strong>9 p.m. – 12 a.m.: </strong>Graduation Ball, The Anderson Center
 
 Seniors and graduate students are invited to a formal celebration with music, food, and a cash wine &amp; beer bar. Dress is formal to semi-formal. Each student will receive two free tickets and are welcome to bring a non-senior or non-UMW student as a guest.
 
