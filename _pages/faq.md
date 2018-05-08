@@ -28,7 +28,7 @@ The University will be providing American Sign Language (ASL) interpreters. Plea
 <h3>Am I allowed to decorate my regalia cap?</h3>
 All degree candidates are welcome to personalize their caps being mindful of our community values.
 <h3>Is there an event following the commencement ceremony?</h3>
-A picnic lunch is offered immediately following the ceremony. Tickets are required for this event.
+A luncheon is offered immediately following the ceremony. Tickets are required for this event.
 <h3>Who participates in the commencement ceremony?</h3>
 ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2017, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 13, 2018, for permission to be excused to Sharon Williamson, Office of the Registrar at swilli28@umw.edu.
 <h3>If my student completed his/her degree requirements in the Fall, is there a separate Commencement Ceremony?</h3>
