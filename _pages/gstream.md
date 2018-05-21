@@ -1,6 +1,6 @@
 ---
 ID: 360
-post_title: Graduate Ceremony 2017 Video
+post_title: Graduate Ceremony 2018 Video
 author: UMW
 post_excerpt: ""
 layout: page
