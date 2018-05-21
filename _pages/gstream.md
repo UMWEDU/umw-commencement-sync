@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2015-05-08 21:33:12
 ---
-https://www.youtube.com/watch?v=C79yNQEfoK8
-
-The 2018 Ceremony will be available through live streaming from our main university web-page.
+https://vimeo.com/269966411
