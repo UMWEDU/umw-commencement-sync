@@ -10,7 +10,7 @@ published: true
 post_date: 2015-02-12 20:35:06
 ---
 <h3><strong>Will professional photos be taken and available for purchase?</strong></h3>
-Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within a few days  of the ceremony and via postal mail within 7 to 10 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com/">placed online</a> or by calling 1-800-261-2576.  If you are sent photographs of another student, please contact a customer service representative. They should be able to correct the issue and get the correct photos to you.
+Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 10-14 days  of the ceremony and via postal mail within 10 to 20 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com/">placed online</a> or by calling 1-800-261-2576.  If you are sent photographs of another student, please contact a customer service representative. They should be able to correct the issue and get the correct photos to you.
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
 <h3>When and Where is the Undergraduate Commencement Ceremony?</h3>
