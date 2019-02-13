@@ -19,21 +19,21 @@ Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, ann
 
 <strong>Grad Fair Dates:  </strong>
 <ul>
- 	<li>Thursday, March 15th from  10 a.m. – 7 p.m.</li>
- 	<li>Friday, March 16th from 10 a.m. – 4 p.m.<strong>
+ 	<li>Thursday, March 14th from  10 a.m. – 7 p.m.</li>
+ 	<li>Friday, March 15th from 10 a.m. – 4 p.m.<strong>
 </strong></li>
- 	<li>Saturday, March 17th from 10 a.m. – 4 p.m.</li>
+ 	<li>Saturday, March 16th from 10 a.m. – 4 p.m.</li>
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull.  The Master Degree Ensemble is $64.99 plus tax.
 
-<em>The UMW Bookstore will have a limited supply of regalia available after March 18th.</em>
+<em>The UMW Bookstore will have a limited supply of regalia available after March 17h.</em>
 
 <strong>Online Options</strong>
 
 </div>
 <div>
 
-<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 19th through April 20st.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 24th.
+<a href="http://www.oakhalli.com/UMW">Order regalia online</a> beginning March 18th through April 19th.  A $15.95 home shipping fee and sales tax will be added to each order.<u> </u>A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 23rd.
 
 </div>
 <h3><strong>Step-By-Step Guide</strong></h3>
