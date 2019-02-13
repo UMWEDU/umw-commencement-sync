@@ -28,7 +28,7 @@ No, tickets are not required to attend the ceremony. Seating is on a first come,
 <h3>Who do I contact if someone in my family needs a special accommodation?</h3>
 The ceremony on Ball Circle is one level and fully accessible with flexible seating.
 
-The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 12, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. Additional golf cart shuttles will be available near designated handicapped parking in the Lee Hall and in Monroe Hall parking lots.
+The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 11, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. Additional golf cart shuttles will be available near designated handicapped parking in the Lee Hall and in Monroe Hall parking lots.
 
 The University will be providing American Sign Language (ASL) interpreters. Please contact the Events Office at (540) 654-1087 as soon as possible to arrange for reserved seating.
 <h3>Am I allowed to decorate my regalia cap?</h3>
@@ -36,11 +36,11 @@ All degree candidates are welcome to personalize their caps being mindful of ou
 <h3>Is there an event following the commencement ceremony?</h3>
 A luncheon is offered immediately following the ceremony. Tickets are required for this event.
 <h3>Who participates in the commencement ceremony?</h3>
-ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2017, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 13, 2018, for permission to be excused to Sharon Williamson, Office of the Registrar at swilli28@umw.edu.
+ALL candidates for undergraduate degrees are expected to attend the commencement ceremony including those who finished in Summer or Fall of 2018, but it is possible to graduate in absentia. Candidates who cannot attend must submit a written request no later than April 12, 2019, for permission to be excused to Sharon Williamson, Office of the Registrar at swilli28@umw.edu.
 <h3>If my student completed his/her degree requirements in the Fall, is there a separate Commencement Ceremony?</h3>
 There is only one Commencement Ceremony each year in May. If a student completes all degree requirements in the Fall they are invited to participate the following May but are not required to, it is their personal choice.
 <h3>If a graduating student or guest requires special accommodations, what should I do?</h3>
-All venues are wheelchair accessible. Please contact the Office of Events and Conferencing if you have questions or concerns by <strong>April 20, 2018</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form.
+All venues are wheelchair accessible. Please contact the Office of Events and Conferencing if you have questions or concerns by <strong>April 19, 2019</strong> by submitting the <a href="http://www.umw.edu/commencement/contact-us/">Contact Us</a> form.
 <h3>Will flowers be available for sale?</h3>
 Yes, a flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
