@@ -19,10 +19,10 @@ Each spring, eligible students will receive an email announcement from the Regi
 
 <strong>Grad Fair Dates:  </strong>
 <ul>
- 	<li><strong>Thursday, March 15th from 10 a.m. - 7 p.m.</strong></li>
- 	<li><strong>Friday, March 16th from 10 a.m. - 4 p.m.
+ 	<li><strong>Thursday, March 14th from 10 a.m. - 7 p.m.</strong></li>
+ 	<li><strong>Friday, March 15th from 10 a.m. - 4 p.m.
 </strong></li>
- 	<li><strong>Saturday, March 17th from 10 a.m. - 4 p.m.</strong></li>
+ 	<li><strong>Saturday, March 16h from 10 a.m. - 4 p.m.</strong></li>
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble  includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.99 plus tax, and the Master Degree Ensemble is $64.99 plus tax.
 
@@ -52,18 +52,18 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
-<h3>Thursday, May 10, 2018  ~  9:00 p.m.  to 12:00 a.m.</h3>
-This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2017 or are graduating in Spring 2018.
+<h3>Thursday, May 9, 2019  ~  9:00 p.m.  to 12:00 a.m.</h3>
+This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2018 or are graduating in Spring 2019.
 
-Tickets will be available to pick up between 8 a.m. to 5 p.m. starting Monday, April 30 through Thursday, May 10 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
+Tickets will be available to pick up between 8 a.m. to 5 p.m. starting Monday, April 29 through Thursday, May 9 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
 
 &nbsp;
 <h2>Practice Makes Perfect</h2>
 <h3>Undergraduate Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
-<h3>Friday, May 11, 2018   ~  1:00 p.m.  to  3:15 p.m.</h3>
+<h3>Friday, May 10, 2019   ~  1:00 p.m.  to  3:15 p.m.</h3>
 All undergraduate degree candidates are expected to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
 <h2>It's Your Day!</h2>
-<h3>Undergraduate Commencement, May 12, 2018</h3>
+<h3>Undergraduate Commencement, May 11, 2019</h3>
 <strong>Please arrive no later than 8:15 a.m in your regalia</strong>. Candidates for Undergraduate Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
 
 The procession will begin promptly at 9 a.m. Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
