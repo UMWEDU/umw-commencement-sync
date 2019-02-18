@@ -23,11 +23,9 @@ Advanced Online Tickets:
  	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$12.75 </span></b><span style="font-size: medium">(plus tax) </span></li>
  	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$6.50 </span></b><span style="font-size: medium">(plus tax) </span></li>
 </ul>
-<span style="font-size: medium">Tickets purchased online by May 4</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be mailed to your home address.  </span>Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
+<span style="font-size: medium">Tickets purchased online by May 3</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be mailed to your home address.  </span>Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
 
-<span style="font-size: medium">Tickets purchased online May 5</span><span style="font-size: xx-small">th </span><span style="font-size: medium">-9</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be available for pick-up on May 12</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the </span>
-
-Dining Will Call table between 8 a.m. and 1 p.m. located at the Ball Circle entrance to the University Center. Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
+<span style="font-size: medium">Tickets purchased online May 4</span><span style="font-size: xx-small">th </span><span style="font-size: medium">-8</span><span style="font-size: xx-small">th </span><span style="font-size: medium">will be available for pick-up on May 11</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the </span>Dining Will Call table between 8 a.m. and 1 p.m. located at the Ball Circle entrance to the University Center. Credit Card purchases only: <a href="https://umw.sodexomyway.com/shop">https://umw.sodexomyway.com/shop</a>
 
 <strong>Limited On-Site Ticket Purchase</strong>
 
