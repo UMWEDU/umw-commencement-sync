@@ -12,7 +12,7 @@ post_date: 2015-01-09 19:33:47
 <h2>Start with the Registrar's Office</h2>
 Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/">Registrar’s Office</a> website.
 <h2>Get what you need!</h2>
-<div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings and view our diploma frame selection.  Take advantage of special pricing and no shipping fees during this event or shop online!</div>
+<div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings, view our diploma frame selection.  Take advantage of special pricing and no shipping fees during this event or shop online!  In addition, a professional photographer will be on site to take phots of our graduates in regalia.</div>
 <div></div>
 <div><strong>Location: </strong>University Bookstore, Lee Hall</div>
 <div>
@@ -40,7 +40,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensembl
 Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
-<div>To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords">http://students.umw.edu/chls/graduation-cords</a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu">chls@umw.edu</a></div>
+<div>To determine eligibility, please review criteria here:  <a href="https://students.umw.edu/studentactivities/graduation-cords/">http://students.umw.edu/studentactivities/graduation-cords</a>/. For additional information, please contact the  at 540-654-2272 or <a href="SAE@umw.edu">SAE@umw.edu</a></div>
 <h4> Diploma Frame Selection</h4>
 A variety of UMW eco- friendly frames are available with a 10% savings  during Grad Fair.
 <h2>Getting your name right!</h2>
