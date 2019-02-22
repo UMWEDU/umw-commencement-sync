@@ -34,7 +34,7 @@ On-Site Tickets:
  	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$13.75 </span></b><span style="font-size: medium">(plus tax) </span></li>
  	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$7.50 </span></b><span style="font-size: medium">(plus tax) </span></li>
 </ul>
-<span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 12</span><span style="font-size: xx-small">th </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
+<span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 11</span><span style="font-size: xx-small"> </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
 
 <em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em><a href="http://Leslie.Jacobs@Sodexo.com.">Leslie.Jacobs@Sodexo.com.</a>
 <h2 style="text-align: center"><strong> Buffet Luncheon </strong></h2>
