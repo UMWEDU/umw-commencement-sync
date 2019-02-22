@@ -36,7 +36,7 @@ On-Site Tickets:
 </ul>
 <span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 11</span><span style="font-size: xx-small"> </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
 
-<em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em><a href="http://Leslie.Jacobs@Sodexo.com."> ljacobs@umw.edu.</a>
+<em>For additional information about the Commencement Luncheon, please contact the University of Mary Washington Catering Office at 540-654-1930 or e-mail </em> <a href="mailto:ljacobs@umw.edu">ljacobs@umw.edu</a>.
 <h2 style="text-align: center"><strong> Buffet Luncheon </strong></h2>
 <p style="text-align: center"><strong>Chef Rigoberto’s  Buttermilk Fried Chicken</strong>   <em>(Contains wheat &amp; gluten)</em></p>
 <p style="text-align: center"><strong>Cheesy Mac and Cheese</strong><em> (Contains milk, wheat &amp; gluten. Vegetarian)</em></p>
