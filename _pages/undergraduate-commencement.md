@@ -16,10 +16,10 @@ This formal event, sponsored by the Office of Student Activities and Engagement
 <h2>Friday, May 10th</h2>
 <strong>1 p.m.: Undergraduate Commencement Rehearsal, Dodd Auditorium in George Washington Hall</strong>
 
-<strong>All undergraduate degree candidates are expected to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions before the rehearsal<em>.</em>
+<strong>All undergraduate degree candidates are expected to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions before the rehearsal<em>.  </em>Rehearsal will conclude by 3:15 p.m.
 <h2>Saturday, May 11th</h2>
 <strong>8:15 a.m.: </strong>Candidates for Undergraduate Commencement line up around Jefferson Square.
-<strong>Guest seating is not reserved and will be available on a first-come, first-served basis. The field is handicapped accessible and opens at 7:00 am.</strong>
+<strong>Guests do not need tickets for Commencement. Guest seating at Ball Circle is not reserved and will be available on a first-come, first-served basis. The field is handicapped accessible and opens at 7:00 am.</strong>
 
 <strong>9 a.m.: </strong>The procession will begin promptly at 9 a.m.
 
