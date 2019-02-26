@@ -84,8 +84,8 @@ A flower vendor will be on campus walk for guests to purchase flowers for their 
 
 <a href="https://www.thecommencementgroup.com/marywashington/">https://www.thecommencementgroup.com/marywashington/</a>
 <h4>Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
-Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <a href="https://content-service.sodexomyway.com/media/2018%20Commencement%20menu%20and%20information%20pub_tcm165-23958.pdf?url=https://umw.sodexomyway.com/"><strong>purchased online </strong></a>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
+Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <a href="https://shop-umw.sodexomyway.com/dining-events"><strong>purchased online </strong></a>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
-Ticket prices for adults are $12.95 and  $6.00 for children (11 years of age or younger) and may be ordered online.
+Ticket prices for adults are $12.75 and  $6.50 for children (11 years of age or younger) and may be ordered online.
 
 The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the University will implement the severe weather plan and communicate it on our website.
