@@ -51,7 +51,7 @@ This year, the University of Mary Washington invite you to use NameCoach to make
 
 &nbsp;
 
-<strong>UMW Masters:</strong>https://www.name-coach.com/record/BE9707
+<strong>UMW Masters:<a href="https://www.name-coach.com/record/UMWMASTERS">https://www.name-coach.com/record/UMWMASTERS</a></strong>
 
 &nbsp;
 <h2>“Day of” Instructions</h2>
