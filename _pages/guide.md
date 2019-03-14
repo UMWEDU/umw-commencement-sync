@@ -11,6 +11,11 @@ post_date: 2015-01-09 19:33:47
 ---
 <h2>Start with the Registrar's Office</h2>
 Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/">Registrar’s Office</a> website.
+<h2><img class="alignleft  wp-image-616" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2019/03/grad-fair-300x157.png" alt="" width="474" height="248" /></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 <h2>Get what you need!</h2>
 <div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings, view our diploma frame selection.  Take advantage of special pricing and no shipping fees during this event or shop online!  In addition, a professional photographer will be on site to take phots of our graduates in regalia.</div>
 <div></div>
@@ -57,7 +62,7 @@ This formal event, sponsored by the Office of Student Activities and Engagement
 
 Tickets will be available to pick up between 8 a.m. to 5 p.m. starting Monday, April 29 through Thursday, May 9 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
 
-&nbsp;
+<img class="alignleft size-medium wp-image-616" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2019/03/grad-fair-300x157.png" alt="" width="300" height="157" /><img class="wpa-image-missing-alt size-medium left" src="//www.umw.edu/commencement/wp-content/plugins/wp-accessibility/imgs/alt-missing.png" alt="This image requires alt text, but the alt text is currently blank. Either add alt text or mark the image as decorative." />
 <h2>Practice Makes Perfect</h2>
 <h3>Undergraduate Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
 <h3>Friday, May 10, 2019   ~  1:00 p.m.  to  3:15 p.m.</h3>
