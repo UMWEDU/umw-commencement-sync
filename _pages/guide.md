@@ -67,7 +67,7 @@ All undergraduate degree candidates are expected to attend the rehearsal<em><str
 
 The procession will begin promptly at 9 a.m. Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from Alvey Parking Deck to Ball Circle. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington Hall Parking Lot is designated completely for handicapped parking. There will be golf carts transporting guests from this lot to Ball Circle.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from Alvey Parking Deck and Sunken Road lots to Ball Circle before and after the ceremony. Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington Hall Parking Lot is designated completely for handicapped parking. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
 <h4>The Venue</h4>
 The venue for Undergraduate Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
 
