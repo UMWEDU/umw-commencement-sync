@@ -16,7 +16,7 @@ Yes, a photographer from GradImages® will be at the commencement ceremony to ph
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
 <h3>When and Where is the Undergraduate Commencement Ceremony?</h3>
-The Undergraduate Ceremony will take place Saturday, May 12, 2018, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
+The Undergraduate Ceremony will take place Saturday, May 11, 2018, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
 <h3>What if it rains?</h3>
 The Ceremony will be held at Ball Circle, rain or shine.
 <h3>What time should I arrive?</h3>
@@ -28,7 +28,7 @@ No, tickets are not required to attend the ceremony. Seating is on a first come,
 <h3>Who do I contact if someone in my family needs a special accommodation?</h3>
 The ceremony on Ball Circle is one level and fully accessible with flexible seating.
 
-The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 11, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. Additional golf cart shuttles will be available near designated handicapped parking in the Lee Hall and in Monroe Hall parking lots.
+The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. On Saturday May 11, golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
 
 The University will be providing American Sign Language (ASL) interpreters. Please contact the Events Office at (540) 654-1087 as soon as possible to arrange for reserved seating.
 <h3>Am I allowed to decorate my regalia cap?</h3>
