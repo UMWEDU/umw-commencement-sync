@@ -8,8 +8,11 @@ permalink: http://www.umw.edu/commencement/parking/
 published: true
 post_date: 2015-03-12 22:44:36
 ---
+<h2></h2>
 <h2>Graduate Commencement</h2>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. <strong>ALL </strong>faculty and staff spaces are available for guest parking <strong>beginning at 5:00 PM</strong>. Residential streets adjacent to campus, including College Avenue, are <strong>open for community parking beginning at 7:00 PM.</strong>
+
+&nbsp;
 <h2>Undergraduate Commencement</h2>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from the Alvey Parking Deck and the Sunken Road lots to Ball Circle before and after the ceremony. Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
 
