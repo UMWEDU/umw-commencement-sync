@@ -43,13 +43,15 @@ A holding cost fee of $10 will be added to any regalia ensemble purchased in the
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
-<strong>UMW Masters:<a href="https://www.name-coach.com/record/UMWMASTERS">https://www.name-coach.com/record/UMWMASTERS</a>
+<strong>UMW Masters:<a href="https://www.name-coach.com/record/UMWMASTERS">https://www.name-coach.com/record/UMWMASTERS</a></strong>
 
-</strong>
+&nbsp;
 <h2>“Day of” Instructions</h2>
 Please arrive no later than <strong>6:45 p.m</strong>.  Graduates will line up to the right of the bell tower  (in front of Bushnell Hall), and process under the Bell Tower to the front door of George Washington Hall.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
 <h3>Parking</h3>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from the parking deck to Dodd Auditorium. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking.
+Please reference the <a href="https://www.umw.edu/visitors/">UMW Campus Map</a> for parking locations.
+
+Guests and graduates may park in any space identified on the map with a dark blue box parking symbol <strong>beginning at 5:00pm.</strong> Residential streets adjacent to campus, including College Avenue, are <strong>open for community parking beginning at 7:00 PM.</strong> The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. Individuals can be dropped off by the side  handicap entrance of Dodd Auditorium, George Washington Hall.
 <h3>Academic Dress</h3>
 On the day of the ceremony graduates are expected to wear the appropriate regalia. What you wear under your regalia is a personal decision; just make sure you are comfortable and prepared for any plans that day after you remove your commencement gown.
 <h3>Seating Arrangements</h3>
