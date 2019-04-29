@@ -38,11 +38,12 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensembl
 <strong>Announcement cards</strong>
 
 Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
-<div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
+<div><strong>Commencement Cords</strong>
+<a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review criteria here:  <a href="https://students.umw.edu/studentactivities/graduation-cords/">http://students.umw.edu/studentactivities/graduation-cords</a>/. For additional information, please contact the  at 540-654-2272 or <a href="mailto:SAE@umw.edu">SAE@umw.edu</a></div>
-<h4> Diploma Frame Selection</h4>
-A variety of UMW eco- friendly frames are available with a 10% savings  during Grad Fair.
+<h4>Diploma Frame Selection</h4>
+A variety of UMW eco-friendly frames are available with a 10% savings  during Grad Fair.
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
@@ -66,7 +67,7 @@ All undergraduate degree candidates are expected to attend the rehearsal<em><str
 
 The procession will begin promptly at 9 a.m. Candidates for Undergraduate Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington Hall Parking Lot is designated completely for handicapped parking. There will be golf carts transporting guests from this lot to Ball Circle.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from Alvey Parking Deck to Ball Circle. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking. The George Washington Hall Parking Lot is designated completely for handicapped parking. There will be golf carts transporting guests from this lot to Ball Circle.
 <h4>The Venue</h4>
 The venue for Undergraduate Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
 
