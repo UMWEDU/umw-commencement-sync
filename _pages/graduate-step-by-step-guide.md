@@ -9,13 +9,10 @@ permalink: >
 published: true
 post_date: 2015-08-01 03:45:39
 ---
-&nbsp;
-
-&nbsp;
 <h2>First Step</h2>
 The year prior to the anticipated graduation date all graduate students must submit a degree application to the Office of the Registrar one year prior to the anticipated graduation date. While all other degree requirements may have been met, no student is allowed to graduate unless the application has been filed appropriately. Degree applications are available in the Office of the Registrar and in the Office of Advising Services. You can find more information at Graduation Information Registrar.
 <h2>Next Steps</h2>
-<h3>Ordering Regalia</h3>
+<h3>Order Regalia</h3>
 Visit the bookstore during Grad Fair to order your regalia. Representatives will be on hand to help with the following services:
 <ul>
  	<li>Regalia Sizing and Pick-up</li>
@@ -43,21 +40,16 @@ In addition, the UMW Bookstore will have a limited supply of regalia available a
 A holding cost fee of $10 will be added to any regalia ensemble purchased in the UMW Bookstore beginning March 25<sup>th</sup>.
 
 </div>
-&nbsp;
-
-&nbsp;
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invite you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
-&nbsp;
+<strong>UMW Masters:<a href="https://www.name-coach.com/record/UMWMASTERS">https://www.name-coach.com/record/UMWMASTERS</a>
 
-<strong>UMW Masters:<a href="https://www.name-coach.com/record/UMWMASTERS">https://www.name-coach.com/record/UMWMASTERS</a></strong>
-
-&nbsp;
+</strong>
 <h2>“Day of” Instructions</h2>
-Please arrive no later than <strong>6:45 p.m</strong>.  Graduates will line up to the right of the bell tower  (in front of Bushnell Hall), and process under the Bell Tower to the front door of GW.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
+Please arrive no later than <strong>6:45 p.m</strong>.  Graduates will line up to the right of the bell tower  (in front of Bushnell Hall), and process under the Bell Tower to the front door of George Washington Hall.  The venue for Graduate Commencement is <strong>Dodd Auditorium</strong>, located in <strong>George Washington Hall</strong>. Ushers will be available to show graduates where and how to line up.
 <h3>Parking</h3>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from the parking deck to Dodd Auditorium. Additional parking may be found along College Avenue. Please be careful not to park where it is noted as residential parking.
 <h3>Academic Dress</h3>
 On the day of the ceremony graduates are expected to wear the appropriate regalia. What you wear under your regalia is a personal decision; just make sure you are comfortable and prepared for any plans that day after you remove your commencement gown.
 <h3>Seating Arrangements</h3>
