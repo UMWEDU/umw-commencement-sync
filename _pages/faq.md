@@ -16,7 +16,7 @@ Yes, a photographer from GradImages® will be at the commencement ceremony to ph
 
 Since photographers will be available, family members and guests are encouraged to remain in their seats, relax, and enjoy the ceremony.
 <h3>When and Where is the Undergraduate Commencement Ceremony?</h3>
-The Undergraduate Ceremony will take place Saturday, May 11, 2018, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
+The Undergraduate Ceremony will take place Saturday, May 11, 2019, at 9 a.m. on Ball Circle. Future Commencement dates are available <a href="https://www.umw.edu/commencement/2017/02/22/future-commencement-dates/">here.</a>
 <h3>What if it rains?</h3>
 The Ceremony will be held at Ball Circle, rain or shine.
 <h3>What time should I arrive?</h3>
