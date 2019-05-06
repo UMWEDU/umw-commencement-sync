@@ -50,11 +50,11 @@ The UMW Bookstore will have a limited supply of regalia available after March 19
 <div></div>
 <div><span style="color: #333333;font-family: 'Helvetica',sans-serif">To determine eligibility, please review criteria here:  <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a>.</span><span style="color: #000000">
 <strong>Activity                                           Cord Color</strong>
-Athletics (varsity)                             Gray
-Campus Rec Sport Clubs                 Red
-Community Service                          Light Blue
-Horizons program                            Royal Blue
-Leadership                                         Green</span>
-<span style="color: #000000">Multicultural Center                        Purple
-Student Activities clubs                  Orange
-Veterans                                             Red, White and Blue</span></div>
+Athletics (varsity)                            Gray
+Campus Rec Sport Clubs                Red
+Community Service                         Light Blue
+Horizons program                           Royal Blue
+Leadership                                        Green</span>
+<span style="color: #000000">Multicultural Center                       Purple
+Student Activities clubs                 Orange
+Veterans                                            Red, White and Blue</span></div>
