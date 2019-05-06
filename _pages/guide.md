@@ -82,7 +82,8 @@ A professional photographer will take pictures of each graduate upon exiting the
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
 <a href="https://www.thecommencementgroup.com/marywashington/">https://www.thecommencementgroup.com/marywashington/</a>
-<h4>Commencement Luncheon                                                                                                                                                                                                     12:00 p.m. to 2:00 p.m.</h4>
+<h4>Commencement Luncheon
+12:00 p.m. to 2:00 p.m.</h4>
 Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <a href="https://shop-umw.sodexomyway.com/dining-events"><strong>purchased online </strong></a>. A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
 
 Ticket prices for adults are $12.75 and  $6.50 for children (11 years of age or younger) and may be ordered online.
