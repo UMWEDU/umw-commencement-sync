@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2015-08-01 03:03:10
 ---
+<h2>Watch Online</h2>
+The <a href="https://portal.stretchinternet.com/umwevents/portal.htm?eventId=530238&streamType=video">Graduate Commencement livestream</a> will be available starting 15 minutes prior to the event.
 <h2>Thursday, May 9th</h2>
 <strong>9 p.m. – 12 a.m.: </strong>Graduation Ball, The Anderson Center
 
