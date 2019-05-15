@@ -1,6 +1,6 @@
 ---
 ID: 360
-post_title: Graduate Ceremony 2018 Video
+post_title: Graduate Ceremony 2019 Video
 author: UMW
 post_excerpt: ""
 layout: page
@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2015-05-08 21:33:12
 ---
-https://vimeo.com/269966411
+https://vimeo.com/336360677
