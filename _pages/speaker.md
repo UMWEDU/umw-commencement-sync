@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/speaker/
+  http://www.umw.edu/commencement/archives/speaker/
 published: true
 post_date: 2016-09-14 20:45:27
 ---
