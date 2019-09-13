@@ -5,7 +5,7 @@ author: Ali Hieber
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/2019-graduate-photography/
+  http://www.umw.edu/commencement/archives/2019-graduate-photography/
 published: true
 post_date: 2019-09-11 17:42:38
 ---
