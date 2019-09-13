@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-01 02:55:18
 ---
+<h2></h2>
 <h2>Watch Online</h2>
 The <a href="https://portal.stretchinternet.com/umwevents/portal.htm?eventId=530237&amp;streamType=video">Commencement livestream</a> will be available starting 15 minutes prior to the event.
 <h2>Thursday, May 7th</h2>
