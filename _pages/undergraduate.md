@@ -1,6 +1,6 @@
 ---
 ID: 214
-post_title: Undergraduate Commencement
+post_title: Students
 author: UMW
 post_excerpt: ""
 layout: page
