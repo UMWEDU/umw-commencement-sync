@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2017-02-22 19:42:22
 ---
-&nbsp;
-
 2020
 
 Graduate <strong>and</strong> Undergraduate Ceremony: May 9, 2020
