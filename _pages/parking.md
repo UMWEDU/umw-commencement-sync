@@ -8,18 +8,11 @@ permalink: http://www.umw.edu/commencement/parking/
 published: true
 post_date: 2015-03-12 22:44:36
 ---
-<h2></h2>
-<h2>Graduate Commencement</h2>
-Please reference the <a href="https://www.umw.edu/visitors/">UMW Campus Map</a> for parking locations.
-
-Guests and graduates may park in any space identified on the map with a dark blue box parking symbol <strong>beginning at 5:00pm.</strong> Residential streets adjacent to campus, including College Avenue, are <strong>open for community parking beginning at 7:00 PM.</strong> The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. Individuals can be dropped off by the side  handicap entrance of Dodd Auditorium, George Washington Hall.
-
-&nbsp;
-<h2>Undergraduate Commencement</h2>
+<h2>Commencement Parking</h2>
 Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from the Alvey Parking Deck and the Sunken Road lots to Ball Circle before and after the ceremony. Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
 
 <a href="http://www.umw.edu/visitors/">Campus Map and Driving Directions</a>
-<h3>Parking for Undergraduate Commencement</h3>
+<h3>Parking for Commencement</h3>
 Parking will be available at the locations below.
 <h4>Alvey Parking Deck</h4>
 [googlemaps https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3130.8034121580395!2d-77.4792698843555!3d38.30722227966614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1fbc8f6fabb%3A0x9f690945be47133!2sAlvey+Dr%2C+Fredericksburg%2C+VA+22401!5e0!3m2!1sen!2sus!4v1494602560059&amp;w=600&amp;h=450]
