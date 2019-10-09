@@ -9,7 +9,7 @@ published: true
 post_date: 2015-03-12 22:44:36
 ---
 <h2>Commencement Parking</h2>
-Guests and graduates may park in any space on campus that is reserved or designated for handicapped vehicles only.
+Guests and graduates may park in any space on campus that is not reserved or designated for handicapped vehicles only.
 
 The George Washington lot is reserved for handicapped parking. You must display your handicapped decal or have a designated license plate to park in this lot. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
 
