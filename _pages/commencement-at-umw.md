@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/commencement/
 published: true
 post_date: 2014-08-15 18:35:34
 ---
-Graduate and Undergraduate Commencement takes place on Saturday, May 9, 2019. Commencement is a formal event celebrating students who are graduating. Most students take part in Commencement, but participation is not required in order to graduate.
+Graduate and Undergraduate Commencement takes place on Saturday, May 9, 2020. Commencement is a formal event celebrating students who are graduating. Most students take part in Commencement, but participation is not required in order to graduate.
 
 Everything you and your guests will need know for the weekend - <a title="Commencement Schedules" href="/commencement/schedule/">schedules</a>, <a title="campus maps and driving directions" href="/visitors/">campus map and driving directions</a>, parking, seating, disability services, event streaming and more can be found here. If you have specific questions please contact the following individuals:
 <ul>
