@@ -1,6 +1,6 @@
 ---
 ID: 225
-post_title: Archive
+post_title: Archives
 author: UMW
 post_excerpt: ""
 layout: page
