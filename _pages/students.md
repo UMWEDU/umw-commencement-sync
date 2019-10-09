@@ -1,6 +1,6 @@
 ---
 ID: 214
-post_title: Students
+post_title: STUDENTS
 author: UMW
 post_excerpt: ""
 layout: page
