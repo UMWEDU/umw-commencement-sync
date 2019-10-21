@@ -1,6 +1,6 @@
 ---
 ID: 225
-post_title: GUESTS
+post_title: Guests
 author: UMW
 post_excerpt: ""
 layout: page
