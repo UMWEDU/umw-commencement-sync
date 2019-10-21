@@ -4,7 +4,8 @@ post_title: Hotels
 author: Emily
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/hotels/
+permalink: >
+  http://www.umw.edu/commencement/guests/hotels/
 published: true
 post_date: 2016-04-04 19:03:54
 ---
