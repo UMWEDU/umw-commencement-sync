@@ -4,7 +4,8 @@ post_title: Parking
 author: UMW
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/parking/
+permalink: >
+  http://www.umw.edu/commencement/guests/parking/
 published: true
 post_date: 2015-03-12 22:44:36
 ---
