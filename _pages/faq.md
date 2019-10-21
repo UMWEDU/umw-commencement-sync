@@ -4,8 +4,7 @@ post_title: Frequently Asked Questions
 author: UMW
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/commencement/undergraduate/faq/
+permalink: http://www.umw.edu/commencement/faq/
 published: true
 post_date: 2015-02-12 20:35:06
 ---
