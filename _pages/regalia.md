@@ -4,7 +4,8 @@ post_title: Regalia
 author: UMW
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/commencement/regalia/
+permalink: >
+  http://www.umw.edu/commencement/students/regalia/
 published: true
 post_date: 2015-01-13 14:16:47
 ---
