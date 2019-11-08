@@ -20,18 +20,18 @@ post_date: 2017-03-17 08:46:14
 
 Advanced Online Tickets:
 <ul>
- 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$12.75 </span></b><span style="font-size: medium">(plus tax) </span></li>
+ 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$13.00 </span></b><span style="font-size: medium">(plus tax) </span></li>
  	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$6.50 </span></b><span style="font-size: medium">(plus tax) </span></li>
 </ul>
 <span style="font-size: medium">Tickets purchased online by May 1</span> <span style="font-size: medium">will be mailed to the address provided.  </span>Credit Card purchases only:  <a href="https://shop-umw.sodexomyway.com/dining-events">https://shop-umw.sodexomyway.com/dining-events</a>
 
-<span style="font-size: medium">Tickets purchased online May 2</span> <span style="font-size: medium">- 6 </span><span style="font-size: xx-small"> </span><span style="font-size: medium">will be available for pick-up on May 9</span><span style="font-size: xx-small"> </span><span style="font-size: medium">at the </span>Dining Will Call table between 8 a.m. and 1 p.m. located at the Ball Circle entrance to the University Center.
+<span style="font-size: medium">Tickets purchased online between May 2</span> <span style="font-size: medium">- 6 </span><span style="font-size: xx-small"> </span><span style="font-size: medium">will be available for pick-up on May 9</span><span style="font-size: xx-small"> </span><span style="font-size: medium">at the </span>Dining Will Call table between 8 a.m. and 1 p.m. located at the Ball Circle entrance to the University Center.
 
 <strong>Limited On-Site Ticket Purchase</strong>
 
 On-Site Tickets:
 <ul>
- 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$13.75 </span></b><span style="font-size: medium">(plus tax) </span></li>
+ 	<li><span style="font-size: medium">Adults: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$14 </span></b><span style="font-size: medium">(plus tax) </span></li>
  	<li><span style="font-size: medium">Children 11 years of age or younger: </span><b><span style="font-family: Cambria,Cambria;font-size: medium">$7.50 </span></b><span style="font-size: medium">(plus tax) </span></li>
 </ul>
 <span style="font-size: medium">Limited tickets may be purchased with cash or credit card on May 11</span><span style="font-size: xx-small"> </span><span style="font-size: medium">at the Dining Ticket Sales table located at the Ball Circle entrance of the University Center. </span>
