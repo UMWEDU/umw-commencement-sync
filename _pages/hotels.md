@@ -1,6 +1,6 @@
 ---
 ID: 430
-post_title: Hotels
+post_title: Hotel
 author: Emily
 post_excerpt: ""
 layout: page
