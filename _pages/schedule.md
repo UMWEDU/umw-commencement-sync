@@ -17,7 +17,5 @@ post_date: 2019-11-11 19:08:05
 <strong>9 a.m.: </strong>The procession will begin promptly at 9 a.m.
 
 <strong>12:00 p.m. – 2:00 p.m.: </strong>Commencement Luncheon will take place in the Chandler Ballroom at the University Center. Commencement Luncheon tickets are available for purchase online. A limited number of tickets will be available to purchase on-site.
-
-&nbsp;
 <h2>Watch Online</h2>
 If you are unable to make it to the Commencement ceremony, there will be a live broadcasting of the event <a href="https://portal.stretchinternet.com/umwevents/portal.htm?eventId=530237&amp;streamType=video">here</a>. The livestream of the ceremony will be available 15 minutes prior to the start of the event.
