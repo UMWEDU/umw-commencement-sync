@@ -18,4 +18,4 @@ If you weren't able to make it to the commencement or you want to relive that sp
  	<li><a href="https://vimeo.com/336360580">Undergraduate Commencement</a></li>
 </ul>
 <h2><strong>Photos</strong></h2>
-The University offers graduates the opportunity to purchase professional photographs from the ceremony.  Please visit <a href="https://www.gradimages.ca/universityofmarywashington">GradImages website</a> to view and order.
+The University offers graduates the opportunity to purchase professional photographs from the ceremony.  Please visit <a href="https://www.gradimages.ca/universityofmarywashington">Grad Images website</a> to view and order.
