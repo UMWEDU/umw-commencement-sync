@@ -33,7 +33,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble
 </div>
 <div>
 
-<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 17th through April 19th.  A $15.95 home shipping fee and sales tax will be added to each order. A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 22nd.
+<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 17th through April 19th.  A $15.95 home shipping fee and sales tax will be added to each order.
 
 <strong>Announcement cards</strong>
 
