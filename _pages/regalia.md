@@ -33,7 +33,7 @@ post_date: 2015-01-13 14:16:47
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble which includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.98 plus tax, and the Master Degree Ensemble is $64.98 plus tax.
 
-The UMW Bookstore will have a limited supply of regalia available after March 19th.
+The UMW Bookstore will have a supply of regalia available after March 19th.
 
 <strong>Online Options</strong>
 
@@ -42,17 +42,16 @@ The UMW Bookstore will have a limited supply of regalia available after March 19
 
 <a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 17th through April 19th.  A $15.95 home shipping fee and sales tax will be added to each order.
 
-<u>Please note:</u>  A late charge of $10 will be added to any regalia ensemble purchased in the UMW Bookstore after March 22nd.
+&nbsp;
 
 </div>
-<div></div>
 <div><strong>Commencement Cords</strong><a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="size-medium wp-image-467 alignright" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="" width="148" height="300" /></a></div>
-<div><span style="color: #333333;font-family: 'Helvetica',sans-serif"><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom. Students are responsible for purchasing their own cords.  Cords may be purchased at the University Bookstore for approximately $7.</span></span></div>
+<div><span style="color: #333333;font-family: 'Helvetica',sans-serif"><span style="color: #333333;font-family: 'Helvetica',sans-serif">Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom. Students are responsible for purchasing their own cords.  Cords may be purchased at the University Bookstore for approximately $8, double cords, selected by some organizations are approximately $16.</span></span></div>
 <div></div>
 <div><span style="color: #333333;font-family: 'Helvetica',sans-serif">To determine eligibility, please review the criteria here:  <a href="http://students.umw.edu/chls/graduation-cords"><span style="color: #0000ff">http://students.umw.edu/chls/graduation-cords</span></a>/. For additional information, please contact the Center for Honor, Leadership, and Service at 540-654-2272 or <a href="mailto:chls@umw.edu"><span style="color: #0000ff">chls@umw.edu</span></a>.</span><span style="color: #000000">
 <strong>Activity                                           Cord Color</strong>
 Athletics (Varsity)                            Gray
-Campus Rec Sports Clubs                Red
+Campus Rec Sports Clubs              Red
 Community Service                         Light Blue
 Horizons program                           Royal Blue
 Leadership                                        Green</span>
