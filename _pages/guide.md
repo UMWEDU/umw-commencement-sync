@@ -26,7 +26,7 @@ Each spring, eligible students will receive an email announcement from the Regi
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.98 plus tax, and the Master Degree Ensemble is $64.98 plus tax.
 
-<strong><em>The UMW Bookstore will have a limited supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
+<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
 
 <strong>Online Options</strong>
 
@@ -42,6 +42,7 @@ Announcements are available for sale in the University Bookstore. Personalize yo
 <a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review the criteria here:  <a href="https://students.umw.edu/studentactivities/graduation-cords/">http://students.umw.edu/studentactivities/graduation-cords</a>/. For additional information, please contact the at 540-654-2272 or <a href="mailto:SAE@umw.edu">SAE@umw.edu</a></div>
+<div>Cords may be purchased at the UMW Bookstore.  A single cord retails for about $8 and double cords for $15.</div>
 <h4>Diploma Frame Selection</h4>
 A variety of UMW eco-friendly frames are available with a 10% savings during Grad Fair.
 <h2>Getting your name right!</h2>
