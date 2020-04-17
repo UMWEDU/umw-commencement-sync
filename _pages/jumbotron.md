@@ -1,6 +1,6 @@
 ---
 ID: 756
-post_title: Jumbotron
+post_title: '#UMWGRADS Virtual Jumbotron'
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
