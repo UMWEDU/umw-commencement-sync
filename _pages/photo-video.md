@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-10-21 01:25:12
 ---
-The University will stream the ceremony live on our web page on Saturday, May 9, 2020. An archive of the most recent celebrations are available to view.
+The University will stream the ceremony live on our web page on Saturday, October 24, 2020. An archive of the most recent celebrations are available to view.
 
 A professional photographer will capture multiple images of each graduate as they cross the stage at Commencement. These photos are available for purchase from Grad Images approximately 10 days after the ceremony. An email will be sent to the the graduate's UMW email address and a link to purchase photos will be on this site.
 <h2>Videos</h2>
