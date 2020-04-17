@@ -9,4 +9,25 @@ permalink: >
 published: true
 post_date: 2016-04-04 19:03:54
 ---
-The University hotel is the <a href="http://fredericksburg.place.hyatt.com/en/hotel/home.html">Hyatt Place Fredericksburg</a>.  You can also go on the <a href="https://www.visitfred.com/where-to-stay/">Fredericksburg Visitors Center website</a>, to find helpful information about other nearby hotels, motels, bed and breakfasts, lodges, and inns. Many of these are located within two miles of the Fredericksburg campus. You will also find information about local historic sites, restaurants, and other area attractions.
+UMW has three preferred lodging partners: Country Inn &amp; Suites, Hyatt Place Fredericksburg, and Residence Inn. All three provide extensive amenities, including free WiFi, parking, indoor swimming pools, fitness centers, meeting spaces, and free breakfast. Please ask for the “<strong>UMW Friends &amp; Family Rate</strong>” when booking.
+
+The Hyatt Place Fredericksburg at Mary Washington next to Eagle Landing is associated with the University and is offering a limited number of rooms.
+
+<a href="http://hyattplacefredericksburg.com/">Hyatt Place Hotel of Fredericksburg
+</a>1241 Jefferson Davis Highway
+Fredericksburg, VA 22401<a href="http://hyattplacefredericksburg.com/">
+</a>1 (800) 387-3418
+
+UMW also partners with the following nearby hotels:
+
+<a href="https://www.radissonhotels.com/en-us/hotels/country-inn-fredericksburg-spotsylvania-va">Country Inn &amp; Suites by Radisson, Fredericksburg South</a>
+5327 Jefferson Davis Highway
+Fredericksburg, VA 22408
+1 (800) 830-5222
+
+<a href="https://www.marriott.com/hotels/travel/fkrri-residence-inn-fredericksburg/">Residence Inn Fredericksburg</a>
+60 Town Centre Blvd
+Fredericksburg, VA 22407
+(540) 786-9222
+
+The <a href="http://visitfred.com/">Fredericksburg Visitor Center website</a> is your best resource for information on hotels and bed &amp; breakfasts in Fredericksburg, Virginia. Choose from historic inns in downtown Fredericksburg or chain hotels in Central Park for the perfect night’s stay.
