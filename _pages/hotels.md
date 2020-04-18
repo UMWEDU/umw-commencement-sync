@@ -1,6 +1,6 @@
 ---
 ID: 430
-post_title: Hotel/Lodging
+post_title: Lodging
 author: Emily
 post_excerpt: ""
 layout: page
