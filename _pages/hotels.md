@@ -1,6 +1,6 @@
 ---
 ID: 430
-post_title: Hotel
+post_title: Hotel/Lodging
 author: Emily
 post_excerpt: ""
 layout: page
@@ -18,8 +18,6 @@ UMW has three preferred lodging partners: Country Inn &amp; Suites, Hyatt Place 
 Fredericksburg, VA 22408
 1 (800) 830-5222
 
-&nbsp;
-
 <a href="http://hyattplacefredericksburg.com/">Hyatt Place Hotel of Fredericksburg </a>
 
 <em>Located Adjacent to the University of Mary Washington</em>
@@ -27,8 +25,6 @@ Fredericksburg, VA 22408
 1241 Jefferson Davis Highway
 Fredericksburg, VA 22401<a href="http://hyattplacefredericksburg.com/">
 </a>1 (800) 387-3418
-
-&nbsp;
 
 <a href="https://www.marriott.com/hotels/travel/fkrri-residence-inn-fredericksburg/">Residence Inn Fredericksburg</a>
 60 Town Centre Blvd
