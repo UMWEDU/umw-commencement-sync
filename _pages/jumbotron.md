@@ -19,4 +19,4 @@ post_date: 2020-04-17 19:53:46
 <script type="text/javascript" charset="utf-8">
   var ew_lht4ioff = {"layout":"waterfall","post_limit":30,"expand":false}
 </script>
-<div id="ew-lht4ioff" class="everwall-embed" style="width: 100%; height: 1400px;"></div>
+<div id="ew-lht4ioff" class="everwall-embed" style="width: 100%; height: 800px; background-color:#eee;"></div>
