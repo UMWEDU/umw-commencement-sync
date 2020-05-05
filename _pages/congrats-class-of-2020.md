@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  https://umwwebdev.wpengine.com/commencement/congrats-class-of-2020/
+  http://umwwebdev.wpengine.com/commencement/congrats-class-of-2020/
 published: true
 post_date: 2020-05-05 09:13:19
 ---
