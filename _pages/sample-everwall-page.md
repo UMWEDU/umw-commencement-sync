@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  https://umwwebdev.wpengine.com/commencement/sample-everwall-page/
+  http://umwwebdev.wpengine.com/commencement/sample-everwall-page/
 published: true
 post_date: 2020-05-01 19:03:31
 ---
