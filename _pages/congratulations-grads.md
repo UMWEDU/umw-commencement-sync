@@ -5,19 +5,17 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebdev.wpengine.com/commencement/congratulations-grads/
+  https://umwwebdev.wpengine.com/commencement/congratulations-grads/
 published: true
 post_date: 2020-05-01 15:18:17
 ---
-<!-- wp:paragraph -->
-<p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for October 24th, we’re celebrating their achievements virtually as they start their next journey.</p>
-<!-- /wp:paragraph -->
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2020/04/2020-Class-Picture-1-scaled-e1587154715141.jpg" alt=""/></figure>
+<!-- /wp:image -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=EW1__ujeekw","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=EW1__ujeekw
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<!-- wp:paragraph -->
+<p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for October 24th, please join us in celebrating their achievements virtually as they start their next journey.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <div class="one-half first">
