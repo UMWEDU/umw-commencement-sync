@@ -5,7 +5,7 @@ author: UMW
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/commencement/undergraduate/undergraduate-commencement/
+  http://www.umw.edu/commencement/students/undergraduate-commencement/
 published: true
 post_date: 2015-08-01 02:55:18
 ---
