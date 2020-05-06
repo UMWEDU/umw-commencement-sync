@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebdev.wpengine.com/commencement/congratulations-grads/
+  https://umwwebdev.wpengine.com/commencement/congratulations-grads/
 published: true
 post_date: 2020-05-01 15:18:17
 ---
@@ -19,18 +19,18 @@ post_date: 2020-05-01 15:18:17
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading -->
-<h2>Send your congratulations</h2>
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>Send your congratulations</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li>Twitter and Instagram: <strong>#UMW2020</strong></li><li>On the web: <a href="https://www.alumni.umw.edu/s/1588/rd17/interior.aspx?sid=1588&amp;gid=1&amp;pgid=2621&amp;cid=6065">Alumni Congrat-A-Grad Form</a></li></ul>
+<ul><li>Twitter: <strong>#UMW2020</strong></li><li>Instagram: <strong>#UMW2020</strong></li><li>On the web: <a href="https://www.alumni.umw.edu/s/1588/rd17/interior.aspx?sid=1588&amp;gid=1&amp;pgid=2621&amp;cid=6065">Alumni Congrat-A-Grad Form</a></li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading -->
-<h2>Read more</h2>
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>Read more</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
