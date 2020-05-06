@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  https://umwwebdev.wpengine.com/commencement/congratulations-grads-2/
+  http://umwwebdev.wpengine.com/commencement/congratulations-grads-2/
 published: true
 post_date: 2020-05-06 13:48:26
 ---
