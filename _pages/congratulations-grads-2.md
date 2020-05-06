@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebdev.wpengine.com/commencement/congratulations-grads-2/
+  https://umwwebdev.wpengine.com/commencement/congratulations-grads-2/
 published: true
 post_date: 2020-05-06 13:48:26
 ---
@@ -13,11 +13,9 @@ post_date: 2020-05-06 13:48:26
 <p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for October 24th, we’re celebrating their achievements virtually as they start their next journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=EW1__ujeekw","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=EW1__ujeekw
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<!-- wp:html -->
+<iframe width="960" height="540" style="display:block; margin:0 auto 2em auto;" src="https://www.youtube.com/embed/EW1__ujeekw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- /wp:html -->
 
 <!-- wp:html -->
 <div class="one-half first">
