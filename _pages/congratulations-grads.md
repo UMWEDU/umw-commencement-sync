@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  https://umwwebdev.wpengine.com/commencement/congratulations-grads/
+  http://umwwebdev.wpengine.com/commencement/congratulations-grads/
 published: true
 post_date: 2020-05-01 15:18:17
 ---
