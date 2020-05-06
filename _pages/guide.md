@@ -26,7 +26,7 @@ Each spring, eligible students will receive an email announcement from the Regi
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.98 plus tax, and the Master Degree Ensemble is $64.98 plus tax.
 
-<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
+<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333; font-family: 'Helvetica',sans-serif;">.</span></em></strong>
 
 <strong>Online Options</strong>
 
@@ -37,7 +37,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble
 
 <strong>Announcement cards</strong>
 
-Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
+Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121; font-family: 'Times New Roman',serif;"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong>
 <a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
