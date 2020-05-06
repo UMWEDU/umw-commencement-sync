@@ -5,12 +5,12 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebdev.wpengine.com/commencement/congratulations-grads/
+  https://umwwebdev.wpengine.com/commencement/congratulations-grads/
 published: true
 post_date: 2020-05-01 15:18:17
 ---
 <!-- wp:html -->
-<div class="clearfix">
+<!--<div class="clearfix">
 <div class="one-half first">
 <p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for October 24th, we’re celebrating their achievements virtually as they start their next journey.</p>
 <h3>Send your congratulations</h3>
@@ -27,6 +27,7 @@ post_date: 2020-05-01 15:18:17
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EW1__ujeekw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
+-->
 <!-- /wp:html -->
 
 <!-- wp:columns -->
@@ -38,6 +39,12 @@ post_date: 2020-05-01 15:18:17
 <div class="wp-block-column"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=EW1__ujeekw","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=EW1__ujeekw
+</div></figure>
+<!-- /wp:core-embed/youtube -->
 
 <!-- wp:shortcode -->
 [everwall event=647 import_id=2][/everwall]
