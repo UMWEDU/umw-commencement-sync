@@ -5,7 +5,7 @@ author: Curtiss Grymala
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebdev.wpengine.com/commencement/congratulations-grads/
+  https://umwwebdev.wpengine.com/commencement/congratulations-grads/
 published: true
 post_date: 2020-05-01 15:18:17
 ---
@@ -14,7 +14,7 @@ post_date: 2020-05-01 15:18:17
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for October 24th, please join us in celebrating their achievements virtually as they start their next journey.</p>
+<p>This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for Oct. 24, please join us for a virtual event to recognize their achievements and provide a heartfelt send-off as they embark on the next leg of their journey. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
