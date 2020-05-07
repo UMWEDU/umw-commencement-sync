@@ -11,21 +11,25 @@ post_date: 2015-08-01 02:55:18
 ---
 <h2></h2>
 <h2>Watch Online</h2>
-The <a href="https://portal.stretchinternet.com/umwevents/portal.htm?eventId=530237&amp;streamType=video">Commencement livestream</a> will be available starting 15 minutes prior to the event.
-<h2>Thursday, May 7th</h2>
-<strong>9 p.m. – 12 a.m.: </strong>Graduation Ball, The Anderson Center
+The Commencement live stream will be available starting at 8:45 a.m. on Saturday.  Instructions and a link to view the ceremony will be sent to all graduates the week of the ceremony.
+<h2>Friday, October 23, 2020</h2>
+<strong>2 p.m.: Commencement Rehearsal, Dodd Auditorium in George Washington Hall</strong>
 
-This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2019 or are graduating in Spring 2020.  Additional information will be posted when available.
-<h2>Friday, May 8th</h2>
-<strong>1 p.m.: Commencement Rehearsal, Dodd Auditorium in George Washington Hall</strong>
+<strong>All degree candidates are encouraged to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions then move to Jefferson Square for line up and process to Ball Circle.<em>  </em>Rehearsal will conclude by 4:15 p.m.  An instructional video will be made available  in advance to all graduates.
 
-<strong>All undergraduate degree candidates are expected to attend rehearsal.</strong> Students will meet in Dodd Auditorium for instructions before the rehearsal<em>.  </em>Rehearsal will conclude by 3:15 p.m.
+&nbsp;
+
+<strong>9 p.m. – 12 a.m.: Graduation Ball, The Anderson Center</strong>
+
+This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who are participating in the October celebration.  Each graduate is offered a second ticket for a guest. Additional information about ticket distribution will be posted when available.
 <h2>Saturday, May 9th</h2>
 <strong>8:15 a.m.: </strong>Candidates for Commencement line up around Jefferson Square.
 <strong>Guests do not need tickets for Commencement. Guest seating at Ball Circle is not reserved and will be available on a first-come, first-served basis. The field is handicapped accessible and opens at 7:00 am.</strong>
 
-<strong>9 a.m.: </strong>The procession will begin promptly at 9 a.m.
+<strong>9 a.m.: </strong>The procession  from Jefferson Square will begin promptly at 9 a.m.
 
-<strong>12:00 p.m. – 2:00 p.m.: </strong>Commencement Luncheon, University Center, Chandler Ballroom, tickets are available for purchase online. A limited number of tickets will be available to purchase on-site.
+The ceremony typically concludes by noon.
+
+&nbsp;
 
 &nbsp;
