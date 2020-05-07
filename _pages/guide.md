@@ -12,28 +12,18 @@ post_date: 2015-01-09 19:33:47
 <h2>Start with the Registrar's Office</h2>
 Each spring, eligible students will receive an email announcement from the Registrar’s Office, stating the office is accepting Degree Applications for the graduating class of the following year.  Each student must submit an online Degree Application through Banner Self-Service during the application period, in order to be listed as a pending degree candidate. You can find more information by visiting the <a href="http://academics.umw.edu/registrar/graduation-information/">Registrar’s Office</a> website.
 <h2>Get what you need!</h2>
-<div>Visit the bookstore during <strong>Grad Fair</strong> to order your regalia, announcements, class rings, view our diploma frame selection.  Take advantage of special pricing and no shipping fees during this event or shop online!  In addition, a professional photographer will be on site to take photos of our graduates in regalia.</div>
-<div></div>
-<div><strong>Location: </strong>University Bookstore, Lee Hall</div>
 <div>
 
-<strong>Grad Fair Dates:  </strong>
-<ul>
- 	<li><strong>Thursday, March 12th from 10 a.m. - 7 p.m.</strong></li>
- 	<li><strong>Friday, March 13th from 10 a.m. - 4 p.m.
-</strong></li>
- 	<li><strong>Saturday, March 14th from 10 a.m. - 4 p.m.</strong></li>
-</ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.98 plus tax, and the Master Degree Ensemble is $64.98 plus tax.
 
-<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
-
-<strong>Online Options</strong>
+<strong>Online Purchase is now available</strong>
 
 </div>
 <div>
 
-<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> beginning March 17th through April 19th.  A $15.95 home shipping fee and sales tax will be added to each order.
+<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> directly through our partners at Oak Hall.  A $15.95 home shipping fee and sales tax will be added to each order.
+
+<strong><em>The UMW Bookstore will have a supply of regalia available when the University re-opens.</em></strong>
 
 <strong>Announcement cards</strong>
 
