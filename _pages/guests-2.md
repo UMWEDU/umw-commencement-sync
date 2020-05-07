@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-04-17 18:09:11
 ---
-The UMW 2020 Commencement celebration has been rescheduled to the morning of<strong> Saturday, October 24, 2020.</strong>  This date was selected in part to also welcome our students during Homecoming celebrations.  We are excited to share this information so you can save the date!
+The UMW 2020 Commencement celebration has been rescheduled to the morning of<strong> Saturday, October 24, 2020 at 9 a.m..</strong>  This date was selected in part to also welcome our students during Homecoming celebrations.  We are excited to share this information so you can save the date!
 
 As specific details develop, updates will be posted on this website.  For guests traveling from out of the area, the following hotel and lodging information may be helpful.
 
