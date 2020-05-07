@@ -26,7 +26,7 @@ Each spring, eligible students will receive an email announcement from the Regi
 </ul>
 UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble includes a cap, gown, tassel, hood, and zipper pull. The Bachelor’s Degree Ensemble is $59.98 plus tax, and the Master Degree Ensemble is $64.98 plus tax.
 
-<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333; font-family: 'Helvetica',sans-serif;">.</span></em></strong>
+<strong><em>The UMW Bookstore will have a supply of regalia available after March 18th<span style="color: #333333;font-family: 'Helvetica',sans-serif">.</span></em></strong>
 
 <strong>Online Options</strong>
 
@@ -37,7 +37,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble
 
 <strong>Announcement cards</strong>
 
-Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121; font-family: 'Times New Roman',serif;"> 1-800-433-0296.</span>
+Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong>
 <a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
@@ -51,42 +51,39 @@ This year, the University of Mary Washington invites you to use NameCoach to mak
 <strong>College of Arts and Science</strong>: https://www.name-coach.com/record/UNDERGRADCAS
 
 <strong>College of Business:</strong> https://www.name-coach.com/record/UNDERGRADCOB
+
+</div>
+&nbsp;
+<h2>Practice Makes Perfect</h2>
+<h3>Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
+<h3>Friday, October 23, 2020   ~  2:00 p.m.  to  4:15 p.m.</h3>
+All degree candidates are encouraged to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
+<div>
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
 <h3>Thursday, May 7, 2020  ~  9:00 p.m. to 12:00 a.m.</h3>
-This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2019 or are graduating in Spring 2020.
-
-Tickets will be available to pick up between 8 a.m. to 5 p.m. starting Monday, April 27 through Thursday, May 7 at the University Center. Graduating seniors will be allowed one guest ticket.  Anyone not on campus to pick up tickets may ask to have tickets available at will call at the Anderson Center.  Please email <a href="mailto:umwclasscouncil@gmail.com">umwclasscouncil@gmail.com</a> and make the request for will call.
-<h2>Practice Makes Perfect</h2>
-<h3>Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
-<h3>Friday, May 8, 2020   ~  1:00 p.m.  to  3:15 p.m.</h3>
-All degree candidates are expected to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
+This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2019 or are graduating in Spring 2020. Graduating seniors will be allowed one guest ticket.
 <h2>It's Your Day!</h2>
-<h3>Commencement, May 9, 2020</h3>
+<h3>Commencement, October 24, 2020</h3>
 <strong>Please arrive no later than 8:15 a.m in your regalia</strong>. Candidates for Commencement will line up around Jefferson Square at this time to be ready to process at 9:00 a.m.
 
 The procession will begin promptly at 9 a.m. Candidates for Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well. There will be trolleys transporting guests from Alvey Parking Deck and Sunken Road lots to Ball Circle before and after the ceremony. Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington Hall Parking Lot is designated completely for handicapped parking. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well.  Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington Hall Parking Lot is designated completely for handicapped parking. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. For guests parking in the Alvey Parking deck who need assistance, a city trolley will loop from outside the Alvey Parking Deck and Sunken Road lots to Ball Circle before and after the ceremony.
 <h4>The Venue</h4>
-The venue for Commencement is on Ball Circle. The venue is fully accessible and will be set with over 8,000 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
+The venue for Commencement is on Ball Circle. The venue is fully accessible and will be set with over 7,500 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
 
 Candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the candidates for undergraduate commencement will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
 <h4>Seating Arrangements</h4>
-Graduates will be required to sit in reserved seats. A seating plan will be distributed prior to the ceremony at rehearsal. Guests are invited to find a seat on a first-come, first-serve basis.
+Graduates will be required to sit in reserved seats. A specific seating assignment will be distributed via text prior to the ceremony and confirmed at the rehearsal Friday. Guests are invited to find a seat on a first-come, first-serve basis at Ball Circle.  Additional viewing is available via streaming indoors in the following locaitons: George Washington Hall, Dodd Auditorium, University Center, Chandler Ballroom and in Lee Hall, Room 411 &amp; 412.
 <h4>Academic Dress</h4>
-Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps me be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for the weather.
+Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps may be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for the weather.
 <h4>Photography</h4>
 A professional photographer will take pictures of each graduate upon exiting the stage. These pictures will be made available for purchase. Guests may take photographs during the ceremony.
 <h4>Flowers</h4>
 A flower vendor will be on campus walk for guests to purchase flowers for their graduate. Please pre-order flowers from our vendor;
 
 <a href="https://www.thecommencementgroup.com/marywashington/">https://www.thecommencementgroup.com/marywashington/</a>
-<h4>Commencement Luncheon
-12:00 p.m. to 2:00 p.m.</h4>
-Immediately following the ceremony, you are invited to celebrate with family and friends at the Commencement Luncheon in the Chandler Ballroom in the University Center. Tickets are required and can be <strong><a href="https://shop-umw.sodexomyway.com/dining-events">purchased online</a>.</strong> A limited number of tickets <em>MAY </em>be available for sale the day of the event with slightly higher pricing.
-
-Ticket prices for adults are $12.75 and  $6.50 for children (11 years of age or younger) and may be ordered online.
-
-The University holds commencement exercises outdoors, even when it is raining so dress accordingly. Tickets are not required for an outdoor commencement. However, in the event of extreme or dangerous weather, such as a severe thunderstorm, the University will implement the severe weather plan and communicate it on our website.
+<h4>Commencement Luncheon</h4>
+The Commencement Luncheon will not be offered as part of the rescheduled event in October.  Student and Families are encouraged to enjoy Homecoming programming on Saturday afternoon.
