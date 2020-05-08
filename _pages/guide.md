@@ -36,11 +36,9 @@ Announcements are available for sale in the University Bookstore. Personalize yo
 <h4>Diploma Frame Selection</h4>
 A variety of UMW eco-friendly frames are available online through the <a href="https://umw.bncollege.com/shop/umw/products/gifts-accessories/diploma-frames/diploma-frames-40570?parentSubCatIdFlag=true" target="_blank" rel="noopener noreferrer">UMW Bookstore website.</a>
 <h2>Getting your name right!</h2>
-This year, the University of Mary Washington invites you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
+Mr. Jon Reynolds from the UMW Theater Department will announce your name as your cross the stage at commencement.  To ensure the correct pronunciation, graduates will be invited to voice-record your name and indicate the phonetic spelling through Name Coach. Students may also request a preferred name, different from the printed diploma name, for the ceremony. Name Coach will be activated mid-summer.
 
-<strong>College of Arts and Science</strong>: https://www.name-coach.com/record/UNDERGRADCAS
-
-<strong>College of Business:</strong> https://www.name-coach.com/record/UNDERGRADCOB
+&nbsp;
 
 </div>
 &nbsp;
