@@ -28,6 +28,6 @@ This weekend, we’re celebrating the Class of 2020. Though the in-person Commen
 </ul>
 </div>
 </div>
-[everwall event=715 import_id=1 per_page=25]
+[everwall event=715 import_id=1 per_page=50]
 
 <!--nextpage-->
