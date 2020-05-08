@@ -22,7 +22,7 @@ The Commencement live stream will be available starting at 8:45 a.m. on Saturday
 <strong>9 p.m. – 12 a.m.: Graduation Ball, The Anderson Center</strong>
 
 This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who are participating in the October celebration.  Each graduate is offered a second ticket for a guest. Additional information about ticket distribution will be posted when available.
-<h2>Saturday, May 9th</h2>
+<h2>Saturday, October 24, 2020</h2>
 <strong>8:15 a.m.: </strong>Candidates for Commencement line up around Jefferson Square.
 <strong>Guests do not need tickets for Commencement. Guest seating at Ball Circle is not reserved and will be available on a first-come, first-served basis. The field is handicapped accessible and opens at 7:00 am.</strong>
 
