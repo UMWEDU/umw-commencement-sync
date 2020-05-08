@@ -21,7 +21,7 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble
 </div>
 <div>
 
-<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> directly through our partners at Oak Hall.  A $15.95 home shipping fee and sales tax will be added to each order.
+<a href="https://umw.shopoakhalli.com/purchasewizard/Welcome">Order regalia online</a> directly through our partners at Oak Hall.  A $15.95 home shipping fee and sales tax will be added to each order.  If you have questions about your order,  please contact Oak Hall directly at 1-800/456-7623 or <a href="mailto:webdept@oakhalli.com">webdept@oakhalli.com.</a>
 
 <strong><em>The UMW Bookstore will have a supply of regalia available when the University re-opens.</em></strong>
 
@@ -34,7 +34,7 @@ Announcements are available for sale in the University Bookstore. Personalize yo
 <div>To determine eligibility, please review the criteria here:  <a href="https://students.umw.edu/studentactivities/graduation-cords/">http://students.umw.edu/studentactivities/graduation-cords</a>/. For additional information, please contact the at 540-654-2272 or <a href="mailto:SAE@umw.edu">SAE@umw.edu</a></div>
 <div>Cords may be purchased at the UMW Bookstore.  A single cord retails for about $8 and double cords for $15.</div>
 <h4>Diploma Frame Selection</h4>
-A variety of UMW eco-friendly frames are available with a 10% savings during Grad Fair.
+A variety of UMW eco-friendly frames are available online through the <a href="https://umw.bncollege.com/shop/umw/products/gifts-accessories/diploma-frames/diploma-frames-40570?parentSubCatIdFlag=true" target="_blank" rel="noopener noreferrer">UMW Bookstore website.</a>
 <h2>Getting your name right!</h2>
 This year, the University of Mary Washington invites you to use NameCoach to make sure your name is pronounced correctly at commencement. Just click the link below based on the College from which you will graduate. Follow the directions on how to voice-record your name, it's that easy! You may also fill out the phonetic spelling of your name while you're on the website.
 
