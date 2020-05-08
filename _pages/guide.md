@@ -25,14 +25,15 @@ UMW regalia is made from 100% recycled plastic bottles. The UMW regalia ensemble
 
 <strong><em>The UMW Bookstore will have a supply of regalia available when the University re-opens.</em></strong>
 
-<strong>Announcement cards</strong>
+<strong>Announcement Cards</strong>
 
 Announcements are available for sale in the University Bookstore. Personalize your graduation announcements by visiting: <a href="http://www.cbgrad.balfour.com">www.cbgrad.balfour.com</a> or by calling<span style="color: #212121;font-family: 'Times New Roman',serif"> 1-800-433-0296.</span>
 <div><strong>Commencement Cords</strong>
 <a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop.png"><img class="alignright wp-image-467 size-medium" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2015/01/cordscrop-148x300.png" alt="Student wearing commencement cords" width="148" height="300" /></a></div>
 <div>Students may be eligible to wear grad cords denoting University activities and accomplishments outside of the classroom.</div>
 <div>To determine eligibility, please review the criteria here:  <a href="https://students.umw.edu/studentactivities/graduation-cords/">http://students.umw.edu/studentactivities/graduation-cords</a>/. For additional information, please contact the at 540-654-2272 or <a href="mailto:SAE@umw.edu">SAE@umw.edu</a></div>
-<div>Cords may be purchased at the UMW Bookstore.  A single cord retails for about $8 and double cords for $15.</div>
+<div></div>
+<div>Cords may be purchased at the UMW Bookstore but unfortunately not through an online order at this time.  A single cord retails for about $8 and double cords for $15.</div>
 <h4>Diploma Frame Selection</h4>
 A variety of UMW eco-friendly frames are available online through the <a href="https://umw.bncollege.com/shop/umw/products/gifts-accessories/diploma-frames/diploma-frames-40570?parentSubCatIdFlag=true" target="_blank" rel="noopener noreferrer">UMW Bookstore website.</a>
 <h2>Getting your name right!</h2>
