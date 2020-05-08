@@ -52,7 +52,7 @@ All degree candidates are encouraged to attend the rehearsal<em><strong>. </stro
 <h2>Celebrate!</h2>
 </div>
 <h3>Graduation Ball, The Anderson Center</h3>
-<h3>Thursday, May 7, 2020  ~  9:00 p.m. to 12:00 a.m.</h3>
+<h3>Friday,October 23, 2020  ~  9:00 p.m. to 12:00 a.m.</h3>
 This formal event, sponsored by the Office of Student Activities and Engagement is for seniors and graduate students who graduated in Fall 2019 or are graduating in Spring 2020. Graduating seniors will be allowed one guest ticket.
 <h2>It's Your Day!</h2>
 <h3>Commencement, October 24, 2020</h3>
@@ -60,13 +60,13 @@ This formal event, sponsored by the Office of Student Activities and Engagement 
 
 The procession will begin promptly at 9 a.m. Candidates for Commencement will process from Jefferson Square through the Bell Tower and down campus walk to Ball Circle.
 <h4>Parking</h4>
-Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well.  Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington Hall Parking Lot is designated completely for handicapped parking. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. For guests parking in the Alvey Parking deck who need assistance, a city trolley will loop from outside the Alvey Parking Deck and Sunken Road lots to Ball Circle before and after the ceremony.
+Guests and graduates may park in any space on campus that is not designated as reserved, handicapped, or full. The parking deck on Alvey Drive is available for parking as well.  Additional parking may be found along College Avenue. All city parking restrictions are lifted to celebrate commencement. The George Washington Hall Parking Lot is designated completely for handicapped parking. Golf cart shuttles will transport guests needing special assistance between the George Washington lot and Ball Circle. A city trolley will loop from outside the Alvey Parking Deck and Sunken Road lots to Ball Circle before and after the ceremony for guests who need assistance.
 <h4>The Venue</h4>
-The venue for Commencement is on Ball Circle. The venue is fully accessible and will be set with over 7,500 folding chairs. The ceremony will be streamed live with a link on the University web page and also on a large screen at Ball Circle.
+The venue for Commencement is on Ball Circle. The venue is fully accessible and will be set with over 7,500 folding chairs. The ceremony will be streamed live on a large screen at Ball Circle as well as several indoor locations.
 
-Candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m. the candidates for undergraduate commencement will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
+Candidates are to line up around Jefferson Square where ushers will be available to assist. At 9:00 a.m., graduates will process down campus walk and onto Ball Circle.  All guests are asked to clear campus walk at 9:00 for the processional.
 <h4>Seating Arrangements</h4>
-Graduates will be required to sit in reserved seats. A specific seating assignment will be distributed via text prior to the ceremony and confirmed at the rehearsal Friday. Guests are invited to find a seat on a first-come, first-serve basis at Ball Circle.  Additional viewing is available via streaming indoors in the following locaitons: George Washington Hall, Dodd Auditorium, University Center, Chandler Ballroom and in Lee Hall, Room 411 &amp; 412.
+Degree candidates participating in the ceremony are provided reserved seating. A specific seating assignment will be distributed via text prior to the ceremony and confirmed at the rehearsal Friday. Guests are invited to find a seat on a first-come, first-serve basis at Ball Circle.  Additional viewing is available via streaming indoors in the following locations: George Washington Hall, Dodd Auditorium, University Center, Chandler Ballroom and in Lee Hall, Room 411 &amp; 412.
 <h4>Academic Dress</h4>
 Those participating in the ceremony are expected to wear the appropriate regalia for your degree program.  Caps may be decorated keeping in mind our institutional community values. What you wear under your regalia is a personal decision; please make sure you are comfortable and prepared for the weather.
 <h4>Photography</h4>
