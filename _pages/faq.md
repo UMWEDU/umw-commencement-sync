@@ -8,8 +8,10 @@ permalink: http://www.umw.edu/commencement/faq/
 published: true
 post_date: 2015-02-12 20:35:06
 ---
-<h3></h3>
-<h3></h3>
+<h3>The re-scheduled date for the May ceremony is now October 24, 2020. If it is still not safe to assemble in person in the fall, what is the plan?</h3>
+We plan to hold Commencement for the Class of 2020 on <strong>October 24, 2020</strong>. Regrettably we are still dealing with a perplexing virus, which leaves us with a lot of unknowns. Our hope is that the date we have picked will be a beautiful fall day and a safe time for a large group to gather again.
+
+In this age of uncertainty, contingencies are imperative. A backup to the fall date will be Thursday, <strong>May 6, 2021</strong>. We know that seems too long to wait; however, we cannot predict the course of the coronavirus and when flare-ups may occur again. That is why we are exercising an abundance of caution and picking two dates.
 <h3>Will professional photos be taken and available for purchase?</h3>
 Yes, a photographer from GradImages® will be at the commencement ceremony to photograph each graduate. Graduates will receive a free passport-sized digital proof via email within 10-14 days of the ceremony and via postal mail within 10 to 20 days following the ceremony.  After Commencement, orders may be <a href="http://www.gradimages.com/">placed online</a> or by calling 1-800-261-2576.  If you are sent photographs of another student, please contact a customer service representative. They should be able to correct the issue and get the correct photos to you.
 
