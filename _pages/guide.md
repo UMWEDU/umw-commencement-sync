@@ -38,12 +38,8 @@ Announcements are available for sale in the University Bookstore. Personalize yo
 A variety of UMW eco-friendly frames are available online through the <a href="https://umw.bncollege.com/shop/umw/products/gifts-accessories/diploma-frames/diploma-frames-40570?parentSubCatIdFlag=true" target="_blank" rel="noopener noreferrer">UMW Bookstore website.</a>
 <h2>Getting your name right!</h2>
 Mr. Jon Reynolds from the UMW Theater Department will announce your name as your cross the stage at commencement.  To ensure the correct pronunciation, graduates will be invited to voice-record your name and indicate the phonetic spelling through Name Coach. Students may also request a preferred name, different from the printed diploma name, for the ceremony. Name Coach will be activated mid-summer.
-
-&nbsp;
-
+<h2>Practice Makes Perfect!</h2>
 </div>
-&nbsp;
-<h2>Practice Makes Perfect</h2>
 <h3>Commencement Rehearsal, Dodd Auditorium, George Washington Hall</h3>
 <h3>Friday, October 23, 2020   ~  2:00 p.m.  to  4:15 p.m.</h3>
 All degree candidates are encouraged to attend the rehearsal<em><strong>. </strong></em> Students will meet in Dodd Auditorium for instructions before assembling around Jefferson Square and processing to Ball Circle for announcements from the University Administration.
