@@ -12,17 +12,22 @@ post_date: 2020-05-08 11:33:45
 <a href="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2020/04/2020-Class-Picture-1-scaled-e1587154715141.jpg"><img class="aligncenter wp-image-762 size-full" src="http://www.umw.edu/commencement/wp-content/uploads/sites/13/2020/04/2020-Class-Picture-1-scaled-e1587154715141.jpg" alt="class of 2020 photo" width="2412" height="352" /></a>
 
 This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for Oct. 24, please join us for a virtual event to recognize their achievements and provide a heartfelt send-off as they embark on the next leg of their journey.
-
-<!--
+<div class="clearfix">
 <div class="one-half first">
-
- -->
 <h3>Send your congratulations</h3>
 <ul>
  	<li>Twitter: <strong>#UMW2020</strong></li>
  	<li>Instagram: <strong>#UMW2020</strong></li>
  	<li>On the web: <a href="https://www.alumni.umw.edu/s/1588/rd17/interior.aspx?sid=1588&amp;gid=1&amp;pgid=2621&amp;cid=6065">Alumni Congrat-A-Grad Form</a></li>
 </ul>
+</div>
+<div class="one-half">
+<h3>Class of 2020 Highlights</h3>
+<ul>
+<li><a href="https://www.umw.edu/news/2020/05/08/twenty-ways-the-class-of-2020-stands-out/">Twenty Ways the Class of 2020 Stands Out</a></li>
+</ul>
+</div>
+</div>
 [everwall event=715 import_id=1 per_page=25]
 
 <!--nextpage-->
