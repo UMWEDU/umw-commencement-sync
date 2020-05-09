@@ -11,7 +11,7 @@ post_date: 2020-05-08 11:33:45
 ---
 This weekend, we’re celebrating the Class of 2020. Though the in-person Commencement ceremonies have been rescheduled for Oct. 24, please join us for a virtual event to recognize their achievements and provide a heartfelt send-off as they embark on the next leg of their journey.
 
-https://youtu.be/rKU0GmVLFPo
+https://vimeo.com/416641910
 
 &nbsp;
 <div class="clearfix">
