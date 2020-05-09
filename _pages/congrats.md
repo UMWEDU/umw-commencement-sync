@@ -13,6 +13,7 @@ This weekend, we’re celebrating the Class of 2020. Though the in-person Commen
 
 https://youtu.be/rKU0GmVLFPo
 
+&nbsp;
 <div class="clearfix">
 <div class="one-half first">
 <h3>Send your congratulations</h3>
@@ -25,6 +26,8 @@ https://youtu.be/rKU0GmVLFPo
 <div class="one-half">
 <h3>Class of 2020 highlights</h3>
 <ul>
+ 	<li><a href="https://www.umw.edu/news/2020/05/09/umw-to-graduate-class-of-2020/">UMW to Graduate Class of 2020</a></li>
+ 	<li><a href="https://www.umw.edu/news/2020/05/09/trio-of-darden-winners-receive-virtual-acclaim-for-perfect-grades/">Trio of Darden Winners Receive Virtual Acclaim for Perfect Grades</a></li>
  	<li><a href="https://www.umw.edu/news/2020/05/08/twenty-ways-the-class-of-2020-stands-out/">Twenty Ways the Class of 2020 Stands Out</a></li>
 </ul>
 </div>
