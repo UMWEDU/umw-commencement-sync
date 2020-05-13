@@ -34,6 +34,6 @@ https://vimeo.com/416641910
 </div>
 &nbsp;
 
-[everwall event=715 import_id=1 per_page=50]
+[everwall event=715 import_id=1 per_page=50 trigger=0]
 
 <!--nextpage-->
